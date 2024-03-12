@@ -1,0 +1,17 @@
+\t (00:00:04) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Mar 12 21:17:28 2024
+\t (00:00:04)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=844 CPUs=12
+\t (00:00:04) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\smd_5032.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "smd_5032"
+\d (00:00:07) Design opened: D:/workspace/GitHub/pcb_lib/smc/smd_5032.dra
+\i (00:00:07) trapsize 311
+\i (00:00:08) trapsize 319
+\i (00:00:08) trapsize 311
+\i (00:00:08) trapsize 360
+\i (00:00:08) trapsize 370
+\i (00:00:09) generaledit 
+\i (00:00:16) exit 
+\t (00:00:16)     Journal end - Tue Mar 12 21:17:40 2024

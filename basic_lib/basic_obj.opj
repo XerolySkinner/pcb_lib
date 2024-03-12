@@ -27,11 +27,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\basic_obj.olb")
-      (Select "Design Resources" ".\basic_obj.olb"))
+      (Path "Design Resources" ".\basic_obj.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 643"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 371 0 533"))
       (Tab 0))))
