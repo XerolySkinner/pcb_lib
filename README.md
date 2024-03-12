@@ -10,4 +10,16 @@
 
 - cap_smd:贴片电容
 
-- pcb_lib:元件散件
+- hold:通孔与过孔
+
+- ind_smd:贴片电感
+
+- machine:机械过孔
+
+- other:贴片与过孔组合件(如插口)
+
+- smc:贴片元件
+
+- thr:过孔安装件
+
+- 
