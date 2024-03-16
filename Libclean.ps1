@@ -27,6 +27,16 @@ Remove-Item -Force -Verbose
 Get-ChildItem -Path $startDirectory -File -Recurse |   
 Where-Object { $_.Name -match '.*\.tag' } |   
 Remove-Item -Force -Verbose
-  
+
+# 递归地搜索指定目录及其子目录，并删除匹配的文件  
+Get-ChildItem -Path $startDirectory -File -Recurse |   
+Where-Object { $_.Name -match '.*\.rpt' } |   
+Remove-Item -Force -Verbose
+
+# 递归地搜索指定目录及其子目录，并删除匹配的文件  
+Get-ChildItem -Path $startDirectory -File -Recurse |   
+Where-Object { $_.Name -match '.*\.rpt,[0-9]+$' } |   
+Remove-Item -Force -Verbose
+
 # 输出完成信息  
 Write-Host "删除特定格式的日志文件完成。"
