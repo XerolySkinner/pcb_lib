@@ -1,0 +1,37 @@
+\t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Mar 17 14:20:38 2024
+\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=42908 CPUs=12
+\t (00:00:02) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\smd_sw_l9_6-w4_2.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "smd_sw_l9_6-w4_2"
+\d (00:00:02) Design opened: D:/workspace/GitHub/pcb_lib/smc/smd_sw_l9_6-w4_2.dra
+\i (00:00:02) trapsize 440
+\i (00:00:02) trapsize 452
+\i (00:00:02) trapsize 440
+\i (00:00:02) trapsize 510
+\i (00:00:02) trapsize 523
+\i (00:00:03) updateport CVPane
+\i (00:00:03) shapeedit 
+\i (00:00:16) step pkg map 
+\i (00:00:17) fillin yes 
+\i (00:00:20) setwindow form.pkgmap3d
+\i (00:00:20) FORM pkgmap3d save_current  
+\i (00:00:20) FORM pkgmap3d done  
+\i (00:00:21) setwindow pcb
+\i (00:00:21) shapeedit 
+\i (00:00:22) text edit 
+\i (00:00:25) pick grid -2.7504 -4.7455
+\t (00:00:25) last pick:  -2.8000 -4.7000
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick -2.7504 -4.7455
+\t (00:00:35) Pick text to edit.
+\i (00:00:36) prepopup 2.5753 -2.3913
+\i (00:00:37) done 
+\i (00:00:37) shapeedit 
+\i (00:00:38) exit 
+\e (00:00:38) Do you want to save the changes you made to smd_sw_l9_6-w4_2.dra?
+\i (00:00:38) fillin yes 
+\t (00:00:39) Symbol 'smd_sw_l9_6-w4_2.psm' created.
+\t (00:00:39)     Journal end - Sun Mar 17 14:21:16 2024
