@@ -27,7 +27,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources" ".\basic_obj.olb"))
+      (Path "Design Resources"
+         "d:\workspace\github\pcb_lib\basic_lib\basic_obj.olb")
+      (Select "Design Resources"
+         "d:\workspace\github\pcb_lib\basic_lib\basic_obj.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -37,7 +40,7 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
+        (Placement "44 0 1 -1 -1 -1 -1 5 1099 28 555"))
       (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
       (Package "8MHZ")
       (PartType "1"))
@@ -51,14 +54,14 @@
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1099 28 555"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
       (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
       (Package "SS310")
       (PartType "1"))
     (Doc
       (Type "COrPrmBrowserDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1099 28 555"))
+        (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
       (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
       (Package "SWITCH")
       (PartType "1"))
@@ -75,18 +78,4 @@
         (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
       (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
       (Package "UCC27517")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
-      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
-      (Package "UCC27710")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1099 28 555"))
-      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\BASIC_LIB\BASIC_OBJ.OLB")
-      (Package "XML-DEBUG")
       (PartType "1"))))
