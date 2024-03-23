@@ -1,0 +1,33 @@
+\t (00:00:05) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sun Mar 24 02:59:48 2024
+\t (00:00:05)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=25828 CPUs=12
+\t (00:00:05) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\sod-l6-w3.dra
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sod-l6-w3"
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/smc/sod-l6-w3.dra
+\i (00:00:05) trapsize 1180
+\i (00:00:06) trapsize 1212
+\i (00:00:06) trapsize 1180
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 1368
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 1404
+\i (00:00:07) updateport CVPane
+\i (00:00:08) shapeedit 
+\i (00:00:11) step pkg map 
+\i (00:00:12) fillin yes 
+\i (00:00:20) setwindow form.pkgmap3d
+\i (00:00:20) FORM pkgmap3d overlay YES 
+\i (00:00:30) FORM pkgmap3d stplist RES_CRCW_2512.step 
+\i (00:00:31) FORM pkgmap3d stplist SMA-DO-214AC.step 
+\i (00:00:38) FORM pkgmap3d save_current  
+\i (00:00:40) FORM pkgmap3d done  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) shapeedit 
+\i (00:00:41) exit 
+\e (00:00:41) Do you want to save the changes you made to sod-l6-w3.dra?
+\i (00:00:42) fillin yes 
+\t (00:00:42) Symbol 'sod-l6-w3.psm' created.
+\t (00:00:43)     Journal end - Sun Mar 24 03:00:26 2024

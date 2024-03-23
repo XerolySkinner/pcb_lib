@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : thr_dip_2x5.dra                               )
+(    Drawing          : sod-l12_4-w6_4.dra                            )
 (    Software Version : 17.4S035                                      )
-(    Date/Time        : Sun Mar 24 02:52:36 2024                      )
+(    Date/Time        : Sun Mar 24 02:47:56 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/workspace/GitHub/pcb_lib/thr
-    Name      = thr_dip_2x5.psm
+    Directory = D:/workspace/GitHub/pcb_lib/smc
+    Name      = sod-l12_4-w6_4.psm
     User      = XerolySkinner
     Machine   = LAPTOP-XEROLYSK
 

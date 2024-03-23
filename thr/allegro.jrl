@@ -1,38 +1,33 @@
-\t (00:00:04) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Sat Mar 23 01:49:19 2024
-\t (00:00:04)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=26640 CPUs=12
-\t (00:00:04) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\thr\thr_dip_2x5.dra
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "thr_dip_2x5"
-\d (00:00:04) Design opened: D:/workspace/GitHub/pcb_lib/thr/thr_dip_2x5.dra
-\i (00:00:04) trapsize 1071
-\i (00:00:05) trapsize 1100
-\i (00:00:05) trapsize 1071
-\i (00:00:05) trapsize 1241
-\t (00:00:05) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:06) trapsize 1274
-\i (00:00:06) updateport CVPane
-\i (00:00:06) shapeedit 
-\i (00:00:15) replace padstack 
-\i (00:00:16) setwindow form.mini
-\i (00:00:16) FORM mini oldname_browse  
-\i (00:00:19) fillin "Thr-1r6_0R9"
-\i (00:00:20) FORM mini newname_browse  
-\t (00:00:33) No valid name selected.
-\i (00:00:35) fillin "Thr-1r02_1R8"
-\i (00:00:37) FORM mini replace  
-\t (00:00:37) Done, updated padstack.
-\t (00:00:37) 10 out of 10 old padstack THR-1R6_0R9 were replaced with new padstack THR-1R02_1R8.
-\i (00:00:39) setwindow pcb
-\i (00:00:39) pick grid 0.1418 -7.9086
-\t (00:00:39) last pick:  0.1000 -7.9000
-\i (00:00:40) save 
-\t (00:00:40) Performing DRC...
-\t (00:00:40) No DRC errors detected.
-\i (00:00:41) fillin yes 
-\t (00:00:42) Symbol 'thr_dip_2x5.psm' created.
-\i (00:00:42) shapeedit 
-\i (00:00:43) exit 
-\t (00:00:43)     Journal end - Sat Mar 23 01:49:59 2024
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Mar 24 02:52:14 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=12348 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\thr\thr_dip_2x5.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "thr_dip_2x5"
+\d (00:00:03) Design opened: D:/workspace/GitHub/pcb_lib/thr/thr_dip_2x5.dra
+\i (00:00:03) trapsize 1100
+\i (00:00:04) trapsize 1129
+\i (00:00:04) trapsize 1100
+\t (00:00:04) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:04) trapsize 1274
+\t (00:00:04) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:04) trapsize 1308
+\i (00:00:05) updateport CVPane
+\i (00:00:05) shapeedit 
+\i (00:00:12) step pkg map 
+\i (00:00:13) fillin yes 
+\i (00:00:16) setwindow form.pkgmap3d
+\i (00:00:16) FORM pkgmap3d rotation_z 90 
+\i (00:00:19) FORM pkgmap3d save_current  
+\i (00:00:21) FORM pkgmap3d rotation_z 0 
+\i (00:00:22) FORM pkgmap3d save_current  
+\i (00:00:24) FORM pkgmap3d done  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) shapeedit 
+\i (00:00:24) exit 
+\e (00:00:24) Do you want to save the changes you made to thr_dip_2x5.dra?
+\i (00:00:25) fillin yes 
+\t (00:00:25) Symbol 'thr_dip_2x5.psm' created.
+\t (00:00:26)     Journal end - Sun Mar 24 02:52:37 2024

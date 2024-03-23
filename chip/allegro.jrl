@@ -1,0 +1,33 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Mar 24 02:50:56 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=11324 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\chip\sop-8-gnd.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sop-8-gnd"
+\d (00:00:03) Design opened: D:/workspace/GitHub/pcb_lib/chip/sop-8-gnd.dra
+\i (00:00:04) trapsize 53
+\i (00:00:04) trapsize 54
+\i (00:00:04) trapsize 53
+\i (00:00:05) trapsize 61
+\i (00:00:05) trapsize 63
+\i (00:00:06) updateport CVPane
+\i (00:00:06) shapeedit 
+\i (00:00:12) step pkg map 
+\i (00:00:13) fillin yes 
+\i (00:00:17) setwindow form.pkgmap3d
+\i (00:00:17) FORM pkgmap3d rotation_z 0 
+\i (00:00:20) FORM pkgmap3d rotation_z -90 
+\i (00:00:24) FORM pkgmap3d rotation_z 90 
+\i (00:00:26) FORM pkgmap3d save_current  
+\i (00:00:28) FORM pkgmap3d rotation_z -90 
+\i (00:00:30) FORM pkgmap3d save_current  
+\i (00:00:32) FORM pkgmap3d done  
+\i (00:00:32) setwindow pcb
+\i (00:00:32) shapeedit 
+\i (00:00:33) exit 
+\e (00:00:33) Do you want to save the changes you made to sop-8-gnd.dra?
+\i (00:00:33) fillin yes 
+\t (00:00:34) Symbol 'sop-8-gnd.psm' created.
+\t (00:00:34)     Journal end - Sun Mar 24 02:51:27 2024

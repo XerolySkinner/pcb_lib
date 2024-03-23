@@ -1,0 +1,31 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sun Mar 24 02:51:39 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=13704 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\sod-l4_6-w2_2.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sod-l4_6-w2_2"
+\d (00:00:03) Design opened: D:/workspace/GitHub/pcb_lib/smc/sod-l4_6-w2_2.dra
+\i (00:00:04) trapsize 257
+\i (00:00:04) trapsize 264
+\i (00:00:04) trapsize 257
+\i (00:00:04) trapsize 298
+\i (00:00:05) trapsize 306
+\i (00:00:05) updateport CVPane
+\i (00:00:05) shapeedit 
+\i (00:00:11) step pkg map 
+\i (00:00:12) fillin yes 
+\i (00:00:15) setwindow form.pkgmap3d
+\i (00:00:15) FORM pkgmap3d rotation_z -90 
+\i (00:00:16) FORM pkgmap3d save_current  
+\i (00:00:18) FORM pkgmap3d rotation_z 90 
+\i (00:00:20) FORM pkgmap3d save_current  
+\i (00:00:21) FORM pkgmap3d done  
+\i (00:00:21) setwindow pcb
+\i (00:00:21) shapeedit 
+\i (00:00:21) exit 
+\e (00:00:21) Do you want to save the changes you made to sod-l4_6-w2_2.dra?
+\i (00:00:22) fillin yes 
+\t (00:00:22) Symbol 'sod-l4_6-w2_2.psm' created.
+\t (00:00:23)     Journal end - Sun Mar 24 02:51:58 2024
