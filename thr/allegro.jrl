@@ -1,0 +1,39 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Mar 28 17:14:24 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=888 CPUs=12
+\t (00:00:03) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "thr_conn-th-8p-p5"
+\d (00:00:06) Design opened: D:/workspace/GitHub/pcb_lib/thr/thr_conn-th-8p-p5.dra
+\t (00:00:06) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:06) trapsize 2548
+\i (00:00:06) trapsize 2643
+\i (00:00:07) trapsize 2744
+\i (00:00:07) trapsize 2643
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 2318
+\i (00:00:07) trapsize 2382
+\t (00:00:07) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:07) trapsize 2548
+\t (00:00:07) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:07) trapsize 2548
+\t (00:00:07) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:07) trapsize 2483
+\i (00:00:09) open 
+\i (00:00:26) fillin "D:/工作库/Cadence/motor/allegro/motor.brd"
+\i (00:00:26) cd "D:/工作库/Cadence/motor/allegro"
+\t (00:00:27) Opening existing design...
+\t (00:00:27) Grids are drawn 0.4004, 0.4004 apart for enhanced viewing.
+\i (00:00:27) trapsize 4053
+\i (00:00:27) trapsize 4153
+\t (00:00:28) Grids are drawn 205.0048, 205.0048 apart for enhanced viewing.
+\t (00:00:28) Grids are drawn 0.4004, 0.4004 apart for enhanced viewing.
+\i (00:00:28) trapsize 4374
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini tree  'Components by refdes' 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) trapsize 4374
+\t (00:00:28) > Sending response DoneOpenBoard
+\t (00:00:28)     Journal end - Thu Mar 28 17:14:49 2024

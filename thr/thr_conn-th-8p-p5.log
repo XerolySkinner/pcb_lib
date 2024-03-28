@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : pdfnwb5x6-8l.dra                              )
+(    Drawing          : thr_conn-th-8p-p5.dra                         )
 (    Software Version : 17.4S035                                      )
-(    Date/Time        : Wed Mar 27 12:19:01 2024                      )
+(    Date/Time        : Thu Mar 28 17:10:54 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/workspace/GitHub/pcb_lib/smc
-    Name      = pdfnwb5x6-8l.psm
+    Directory = D:/workspace/GitHub/pcb_lib/thr
+    Name      = thr_conn-th-8p-p5.psm
     User      = XerolySkinner
     Machine   = LAPTOP-XEROLYSK
 
