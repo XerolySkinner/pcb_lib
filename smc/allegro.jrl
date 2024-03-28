@@ -1,0 +1,34 @@
+\t (00:00:05) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Mar 29 01:30:57 2024
+\t (00:00:05)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=20912 CPUs=12
+\t (00:00:05) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\id8.dra
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged id8
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/smc/id8.dra
+\t (00:00:06) Grids are drawn 0.2002, 0.2002 apart for enhanced viewing.
+\i (00:00:06) trapsize 1340
+\i (00:00:06) trapsize 1375
+\i (00:00:07) trapsize 1340
+\i (00:00:07) trapsize 1175
+\i (00:00:08) trapsize 1207
+\i (00:00:08) trapsize 1241
+\t (00:00:08) Grids are drawn 0.2002, 0.2002 apart for enhanced viewing.
+\i (00:00:08) trapsize 1274
+\i (00:00:13) step pkg map 
+\i (00:00:14) fillin yes 
+\i (00:00:21) setwindow form.pkgmap3d
+\i (00:00:21) FORM pkgmap3d stplist ID8.STEP 
+\i (00:00:23) FORM pkgmap3d overlay YES 
+\i (00:00:25) FORM pkgmap3d view_orientation 'Front Right' 
+\i (00:00:28) FORM pkgmap3d view_orientation Top 
+\i (00:00:32) FORM pkgmap3d view_orientation 'Front Right' 
+\i (00:00:34) FORM pkgmap3d save_current  
+\i (00:00:38) FORM pkgmap3d done  
+\i (00:00:39) setwindow pcb
+\i (00:00:39) exit 
+\e (00:00:39) Do you want to save the changes you made to id8.dra?
+\i (00:00:39) fillin yes 
+\t (00:00:40) Symbol 'id8.psm' created.
+\t (00:00:41)     Journal end - Fri Mar 29 01:31:32 2024
