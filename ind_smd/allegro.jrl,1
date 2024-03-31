@@ -1,0 +1,31 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Mar 30 19:29:45 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=33704 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\ind_smd\i0630.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:03) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged i0630
+\d (00:00:03) Design opened: D:/workspace/GitHub/pcb_lib/ind_smd/i0630.dra
+\i (00:00:04) trapsize 1071
+\i (00:00:04) trapsize 1100
+\i (00:00:04) trapsize 1071
+\i (00:00:04) trapsize 940
+\i (00:00:04) trapsize 965
+\i (00:00:04) trapsize 993
+\t (00:00:04) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:05) trapsize 1274
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.3423 0.9303
+\i (00:00:07) trapsize 637
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.3423 0.9303
+\i (00:00:07) trapsize 319
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.3422 0.9303
+\i (00:00:07) trapsize 159
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Sat Mar 30 19:29:51 2024
