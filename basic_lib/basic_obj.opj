@@ -27,11 +27,13 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\basic_obj.olb")
-      (Select "Design Resources" ".\basic_obj.olb" "XML-DEBUG"))
+      (Path "Design Resources"
+         "d:\workspace\github\pcb_lib\basic_lib\basic_obj.olb")
+      (Select "Design Resources"
+         "d:\workspace\github\pcb_lib\basic_lib\basic_obj.olb" "FPC6PIN-TOUCH"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 289 0 644"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 313 0 620"))
       (Tab 0))))
