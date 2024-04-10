@@ -1,6 +1,6 @@
 (ExpressProject "template"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S035 (4083846)  [1/14/2023]-[04/08/24]")
+  (SoftwareVersion "17.4-2019 S035 (4083846)  [1/14/2023]-[04/10/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -28,13 +28,9 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "d:\workspace\github\pcb_lib\orcad_template\template.dsn")
-      (Path "Design Resources"
-         "d:\workspace\github\pcb_lib\orcad_template\template.dsn" "TEMPLATE")
-      (Select "Design Resources"
-         "d:\workspace\github\pcb_lib\orcad_template\template.dsn" "TEMPLATE"
-         "1:POWER"))
+      (Path "Design Resources" ".\template.dsn")
+      (Path "Design Resources" ".\template.dsn" "TEMPLATE")
+      (Select "Design Resources" ".\template.dsn" "TEMPLATE" "3:485"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -44,21 +40,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 913 28 666")
+        (Placement "44 0 1 -1 -1 -1 -1 5 940 28 666")
         (Scroll "0 0")
-        (Zoom "114")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
-      (Schematic "TEMPLATE")
-      (Page "1:POWER"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 913 28 666")
-        (Scroll "0 0")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
+      (Path "D:\¹¤×÷¿â\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
       (Schematic "TEMPLATE")
       (Page "2:USB-CNT")))
   (MPSSessionName "XerolySkinner"))
