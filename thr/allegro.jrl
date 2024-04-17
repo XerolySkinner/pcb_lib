@@ -1,0 +1,32 @@
+\t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Apr 15 22:52:43 2024
+\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=23208 CPUs=12
+\t (00:00:02) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "thr_pin"
+\d (00:00:04) Design opened: D:/workspace/GitHub/pcb_lib/thr/thr_pin.dra
+\i (00:00:04) trapsize 1340
+\i (00:00:05) trapsize 1375
+\i (00:00:05) trapsize 1340
+\i (00:00:05) trapsize 1175
+\i (00:00:05) trapsize 1207
+\i (00:00:05) trapsize 1241
+\i (00:00:05) trapsize 1274
+\i (00:00:09) open 
+\i (00:00:40) fillin "D:/工作库/Cadence/h-bridge/allegro/h-bridge.brd"
+\i (00:00:40) cd "D:/工作库/Cadence/h-bridge/allegro"
+\t (00:00:40) Opening existing design...
+\t (00:00:40) Grids are drawn 0.8008, 0.8008 apart for enhanced viewing.
+\i (00:00:40) trapsize 5900
+\i (00:00:41) trapsize 6046
+\t (00:00:41) Grids are drawn 410.0096, 410.0096 apart for enhanced viewing.
+\t (00:00:41) Grids are drawn 0.8008, 0.8008 apart for enhanced viewing.
+\i (00:00:41) trapsize 6033
+\i (00:00:41) setwindow form.mini
+\i (00:00:41) FORM mini tree  'Components by refdes' 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) trapsize 6033
+\t (00:00:41) > Sending response DoneOpenBoard
+\t (00:00:41)     Journal end - Mon Apr 15 22:53:22 2024
