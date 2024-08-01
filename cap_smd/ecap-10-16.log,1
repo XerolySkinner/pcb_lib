@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ecap-10-16.dra                                )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Fri Jul 19 05:42:51 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/¹¤×÷¿â/GitHub/pcb_lib/cap_smd
+    Name      = ecap-10-16.psm
+    User      = XerolySkinner
+    Machine   = LAPTOP-XEROLYSK
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

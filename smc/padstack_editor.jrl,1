@@ -1,0 +1,14 @@
+\t (00:00:01) padstack_editor 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Jul 28 22:27:40 2024
+\t (00:00:01)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=21076 CPUs=12
+\t (00:00:01) CmdLine= d:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe D:\workspace\GitHub\pcb_lib\smc\0201.pad
+\t (00:00:01) 
+\d (00:00:03) QtSignal MainWindow New triggered
+\d (00:00:07) QtSignal fileNewDialog dirPath editingFinished 1812
+\d (00:00:08) QtSignal fileNewDialog dataCombo CurrentIndexChanged "SMD Pin"
+\d (00:00:10) QtSignal fileNewDialog OK clicked
+\d (00:00:12) QtSignal GuidedTabsParent NewPads currentRowChanged 1
+\d (00:00:12) QtSignal GuidedTabsParent NewPads itemSelectionChanged Square
+\d (00:00:12) QtSignal GuidedTabsParent NewPads itemClicked Square
+\d (00:00:21) QtFillin No
+\t (00:00:21)     Journal end - Sun Jul 28 22:28:01 2024

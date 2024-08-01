@@ -1,0 +1,171 @@
+\t (00:07:27) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:07:27)     Journal start - Fri Jul 19 05:40:24 2024
+\t (00:07:27)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=1840 CPUs=12
+\t (00:07:27) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:07:27) 
+\t (00:07:27) Starting new design...
+\i (00:07:27) trapsize 9377
+\i (00:07:28) trapsize 9630
+\i (00:07:28) trapsize 9377
+\t (00:07:28) Grids are drawn 650.2400, 650.2400 apart for enhanced viewing.
+\i (00:07:29) trapsize 12488
+\i (00:07:29) trapsize 12488
+\i (00:07:29) trapsize 10816
+\i (00:07:29) trapsize 11112
+\i (00:07:29) trapsize 11425
+\i (00:07:31) param in 
+\i (00:07:33) setwindow form.parm_in
+\i (00:07:33) FORM parm_in browse  
+\i (00:07:36) fillin "D:/¹¤×÷¿â/GitHub/pcb_lib/XerolySkinner.prm"
+\i (00:07:37) FORM parm_in execute  
+\t (00:07:37) Starting Importing parameter file...
+\w (00:07:38) WARNING(SPMHGE-269): param in had warnings, use Viewlog to review the log file.
+\t (00:07:38) Opening existing design...
+\t (00:07:38) Grids are drawn 1.2700, 1.2700 apart for enhanced viewing.
+\i (00:07:38) setwindow pcb
+\i (00:07:38) trapsize 11425
+\i (00:07:38) trapsize 11706
+\i (00:07:38) trapsize 11425
+\t (00:07:39) Grids are drawn 1.2700, 1.2700 apart for enhanced viewing.
+\i (00:07:39) trapsize 11836
+\i (00:07:39) trapsize 12413
+\i (00:07:41) setwindow text
+\i (00:07:41) close
+\i (00:07:42) setwindow form.parm_in
+\i (00:07:42) FORM parm_in cancel  
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3.8481 -1.1172
+\i (00:07:43) trapsize 6207
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3.8480 -1.1172
+\i (00:07:43) trapsize 3103
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3.8480 -1.1172
+\i (00:07:43) trapsize 1552
+\i (00:07:43) zoom in 1 
+\i (00:07:43) setwindow pcb
+\i (00:07:43) zoom in -3.8480 -1.1172
+\i (00:07:43) trapsize 776
+\i (00:08:05) add circle 
+\t (00:08:05) Pick center point of the circle.
+\t (00:08:05) Pick center point of the circle.
+\i (00:08:07) setwindow form.mini
+\i (00:08:07) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:08:11) FORM mini subclass SILKSCREEN_TOP 
+\i (00:08:11) setwindow pcb
+\i (00:08:11) updateport CVPane
+\i (00:08:15) setwindow form.mini
+\i (00:08:15) FORM mini line_width 0.1500 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) pick 0 5 
+\t (00:08:19) last pick:  0.0000 5.0000
+\t (00:08:19) Pick a perimeter point on the circle.
+\i (00:08:21) zoom out 1 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out -0.4809 -4.2514
+\i (00:08:21) trapsize 1552
+\i (00:08:23) prepopup 3.6774 -2.9481
+\i (00:08:24) oops 
+\t (00:08:24) Pick center point of the circle.
+\i (00:08:25) pick 0 0 
+\t (00:08:25) last pick:  0.0000 0.0000
+\t (00:08:25) Pick a perimeter point on the circle.
+\i (00:08:27) pick 0 5 
+\t (00:08:27) last pick:  0.0000 5.0000
+\t (00:08:27) Pick center point of the circle.
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in -0.2017 -0.9309
+\i (00:08:28) trapsize 776
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in -0.2017 -0.9309
+\i (00:08:28) trapsize 388
+\i (00:08:29) prepopup -0.2016 -0.9309
+\i (00:08:29) done 
+\i (00:08:30) zoom out 1 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out -0.2560 -0.9154
+\i (00:08:30) trapsize 776
+\i (00:08:32) add circle 
+\t (00:08:32) Pick center point of the circle.
+\t (00:08:32) Pick center point of the circle.
+\i (00:08:38) setwindow form.mini
+\i (00:08:38) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) updateport CVPane
+\i (00:08:43) shape add circle 
+\i (00:08:47) pick 0 0 
+\t (00:08:47) last pick:  0.0000 0.0000
+\i (00:08:48) pick 0 5 
+\t (00:08:48) last pick:  0.0000 5.0000
+\i (00:08:49) prepopup 4.7093 4.8723
+\i (00:08:50) done 
+\i (00:08:52) add pin 
+\i (00:09:04) setwindow form.mini
+\i (00:09:04) FORM mini pad_name thr-1r02_1r8 
+\t (00:09:04) Using 'THR-1R02_1R8.pad'.
+\i (00:09:29) setwindow pcb
+\i (00:09:29) pick 0 2.5 
+\t (00:09:29) last pick:  0.0000 2.5000
+\t (00:09:29) Using 'THR-1R02_1R8.pad'.
+\i (00:09:30) prepopup 3.6232 -2.8394
+\i (00:09:31) oops 
+\t (00:09:31) Using 'THR-1R02_1R8.pad'.
+\i (00:09:36) setwindow form.mini
+\i (00:09:36) FORM mini next_pin_number 1 
+\i (00:09:37) FORM mini text_block 2 
+\i (00:09:38) FORM mini text_block 1 
+\i (00:09:40) FORM mini text_name pin 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) pick -2.5 0 
+\t (00:09:46) last pick:  -2.5000 0.0000
+\t (00:09:46) Using 'THR-1R02_1R8.pad'.
+\i (00:09:49) pick 2.5 0 
+\t (00:09:49) last pick:  2.5000 0.0000
+\t (00:09:49) Using 'THR-1R02_1R8.pad'.
+\i (00:09:50) prepopup 4.1197 3.6154
+\i (00:09:51) done 
+\t (00:09:51) Exiting from Add Pin.
+\i (00:09:53) save 
+\e (00:09:53) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:09:56) setwindow text
+\i (00:09:56) close
+\i (00:09:56) setwindow pcb
+\i (00:09:56) label refdes 
+\t (00:09:56) Pick text location.
+\i (00:10:03) setwindow form.mini
+\i (00:10:03) FORM mini text_name asm 
+\i (00:10:06) setwindow pcb
+\i (00:10:06) pick 0 0 
+\t (00:10:06) last pick:  0.0000 0.0000
+\t (00:10:06) Enter text string.
+\i (00:10:07) setwindow pcb
+\i (00:10:07) pick 0.0000 0.0000
+\i (00:10:13) setwindow form.mini
+\i (00:10:13) FORM mini subclass SILKSCREEN_TOP 
+\i (00:10:13) setwindow pcb
+\i (00:10:13) updateport CVPane
+\i (00:10:16) setwindow form.mini
+\i (00:10:16) FORM mini text_name ski 
+\i (00:10:17) setwindow pcb
+\i (00:10:17) pick 0 0 
+\t (00:10:17) last pick:  0.0000 0.0000
+\t (00:10:17) Enter text string.
+\i (00:10:18) setwindow pcb
+\i (00:10:18) pick 0.0000 0.0000
+\i (00:10:19) setwindow pcb
+\i (00:10:19) prepopup 8.4488 3.3672
+\i (00:10:20) done 
+\i (00:10:21) save 
+\i (00:10:21) fillin yes 
+\t (00:10:22) Symbol 'ecap-10-16.psm' created.
+\i (25:40:10) save 
+\i (25:40:11) fillin yes 
+\t (25:40:11) Symbol 'ecap-10-16.psm' created.
+\i (25:40:12) exit 
+\t (25:40:12)     Journal end - Sat Jul 20 07:13:10 2024

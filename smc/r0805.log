@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : r0805.dra                                     )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Sun May  5 20:21:04 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/workspace/GitHub/pcb_lib/smc
+    Name      = r0805.psm
+    User      = XerolySkinner
+    Machine   = LAPTOP-XEROLYSK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

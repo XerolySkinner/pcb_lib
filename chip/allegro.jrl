@@ -1,0 +1,80 @@
+\t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Mon Jul 29 04:50:28 2024
+\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=13504 CPUs=12
+\t (00:00:02) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\chip\lqfp64.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged lqfp64
+\d (00:00:02) Design opened: D:/workspace/GitHub/pcb_lib/chip/lqfp64.dra
+\t (00:00:02) Grids are drawn 0.200, 0.200 apart for enhanced viewing.
+\i (00:00:02) trapsize 135
+\i (00:00:02) trapsize 139
+\i (00:00:02) trapsize 135
+\i (00:00:03) trapsize 118
+\i (00:00:03) trapsize 122
+\i (00:00:03) trapsize 125
+\t (00:00:03) Grids are drawn 0.200, 0.200 apart for enhanced viewing.
+\i (00:00:03) trapsize 128
+\i (00:00:06) delete 
+\i (00:00:08) pick grid 0.029 2.342
+\t (00:00:08) last pick:  0.000 2.300
+\t (00:00:08) Shape "Package Geometry/Silkscreen_Top"
+\i (00:00:08) prepopup 7.913 10.740
+\i (00:00:09) done 
+\i (00:00:14) shape add rect 
+\i (00:00:16) pick 0 0 
+\t (00:00:16) last pick:  0.000 0.000
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -5.004 5.424
+\i (00:00:18) trapsize 64
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -5.004 5.424
+\i (00:00:18) trapsize 32
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -5.004 5.424
+\i (00:00:18) trapsize 16
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -5.004 5.425
+\i (00:00:18) trapsize 8
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -5.004 5.425
+\i (00:00:18) trapsize 4
+\i (00:00:19) pick grid -4.991 5.049
+\t (00:00:19) last pick:  -5.000 5.000
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -4.944 5.410
+\i (00:00:19) trapsize 8
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -4.945 5.409
+\i (00:00:19) trapsize 16
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -4.945 5.409
+\i (00:00:19) trapsize 32
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -4.944 5.410
+\i (00:00:19) trapsize 64
+\i (00:00:20) prepopup -4.945 5.411
+\i (00:00:21) done 
+\i (00:00:22) delete 
+\i (00:00:23) pick grid -4.689 4.679
+\t (00:00:23) last pick:  -4.700 4.700
+\t (00:00:23) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:24) pick grid -7.886 5.244
+\t (00:00:24) last pick:  -7.900 5.200
+\i (00:00:24) prepopup -7.886 5.244
+\i (00:00:25) done 
+\i (00:00:26) save 
+\i (00:00:26) fillin yes 
+\t (00:00:26) Symbol 'lqfp64.psm' created.
+\i (00:00:27) exit 
+\t (00:00:28)     Journal end - Mon Jul 29 04:50:54 2024
