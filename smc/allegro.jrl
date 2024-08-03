@@ -1,18 +1,32 @@
-\t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Sun Jul 28 23:00:44 2024
-\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=26612 CPUs=12
-\t (00:00:02) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\smc\ll34.dra
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:02) Opening existing design...
-\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ll34
-\d (00:00:02) Design opened: D:/workspace/GitHub/pcb_lib/smc/ll34.dra
-\i (00:00:02) trapsize 344
-\i (00:00:02) trapsize 353
-\i (00:00:02) trapsize 344
-\i (00:00:03) trapsize 302
-\i (00:00:03) trapsize 310
-\i (00:00:03) trapsize 319
-\i (00:00:03) trapsize 327
-\i (00:09:26) exit 
-\t (00:09:26)     Journal end - Sun Jul 28 23:10:09 2024
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Sat Aug  3 21:35:27 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=9888 CPUs=12
+\t (00:00:03) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ll41
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/smc/ll41.dra
+\i (00:00:06) trapsize 335
+\i (00:00:06) trapsize 344
+\i (00:00:06) trapsize 335
+\i (00:00:06) trapsize 294
+\i (00:00:06) trapsize 302
+\i (00:00:06) trapsize 310
+\i (00:00:06) trapsize 319
+\i (00:00:09) open 
+\i (00:00:19) fillin "D:/workspace/Cadence/step-motor/allegro/motor.brd"
+\i (00:00:19) cd "D:/workspace/Cadence/step-motor/allegro"
+\t (00:00:20) Opening existing design...
+\t (00:00:20) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
+\i (00:00:20) trapsize 5519
+\i (00:00:20) trapsize 5655
+\t (00:00:20) Grids are drawn 327.6800, 327.6800 apart for enhanced viewing.
+\t (00:00:20) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
+\i (00:00:20) trapsize 6134
+\i (00:00:20) setwindow form.mini
+\i (00:00:20) FORM mini tree  'Components by refdes' 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) trapsize 6134
+\t (00:00:20) > Sending response DoneOpenBoard
+\t (00:00:20)     Journal end - Sat Aug  3 21:35:45 2024

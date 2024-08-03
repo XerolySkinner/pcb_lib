@@ -1,0 +1,20 @@
+\t (00:00:01) padstack_editor 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Aug  3 22:07:28 2024
+\t (00:00:01)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=16304 CPUs=12
+\t (00:00:01) CmdLine= d:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe D:\workspace\GitHub\pcb_lib\chip\ssop-4.pad
+\t (00:00:01) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:04) QtSignal 1
+\d (00:00:04) QtSignal GuidedDesignLayersTab PadWidth editingFinished "1.0000"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:07) QtSignal 1
+\d (00:00:10) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.0500"
+\d (00:00:11) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:11) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:12) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:12) QtSignal 1
+\d (00:00:12) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.0000"
+\d (00:00:14) QtSignal MainWindow Save triggered
+\t (00:00:15)     Journal end - Sat Aug  3 22:07:42 2024

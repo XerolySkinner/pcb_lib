@@ -1,0 +1,29 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Aug  2 06:23:15 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=25644 CPUs=12
+\t (00:00:03) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "m3x0_5"
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/machine/m3x0_5.dra
+\i (00:00:06) trapsize 671
+\i (00:00:06) trapsize 688
+\i (00:00:06) trapsize 671
+\i (00:00:06) trapsize 588
+\i (00:00:06) trapsize 604
+\i (00:00:06) trapsize 621
+\i (00:00:06) trapsize 638
+\i (00:00:15) open 
+\i (00:00:25) fillin "D:/workspace/Cadence/cardrive/allegro/cardrive.brd"
+\i (00:00:25) cd "D:/workspace/Cadence/cardrive/allegro"
+\t (00:00:26) Opening existing design...
+\t (00:00:26) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:26) trapsize 5428
+\i (00:00:26) trapsize 5562
+\t (00:00:26) Grids are drawn 409.6000, 409.6000 apart for enhanced viewing.
+\t (00:00:26) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:26) trapsize 6033
+\i (00:00:26) trapsize 6033
+\t (00:00:26) > Sending response DoneOpenBoard
+\t (00:00:26)     Journal end - Fri Aug  2 06:23:39 2024

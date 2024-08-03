@@ -1,111 +1,34 @@
 \t (00:00:02) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Mon Jul 29 04:48:36 2024
-\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=18232 CPUs=12
-\t (00:00:02) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\chip\sop-8.dra
+\t (00:00:02)     Journal start - Fri Aug  2 06:02:52 2024
+\t (00:00:02)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=12676 CPUs=12
+\t (00:00:02) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\chip\sop-16.dra
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
 \t (00:00:02) Opening existing design...
-\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sop-8"
-\d (00:00:02) Design opened: D:/workspace/GitHub/pcb_lib/chip/sop-8.dra
-\i (00:00:02) trapsize 106
-\i (00:00:02) trapsize 109
-\i (00:00:03) trapsize 106
-\i (00:00:03) trapsize 93
-\i (00:00:03) trapsize 95
-\i (00:00:03) trapsize 98
-\i (00:00:03) trapsize 98
-\i (00:00:10) shape add rect 
-\i (00:00:14) setwindow form.mini
-\i (00:00:14) FORM mini class 'PACKAGE GEOMETRY' 
-\i (00:00:16) FORM mini subclass SILKSCREEN_TOP 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) updateport CVPane
-\i (00:00:21) pick 0 0 
-\t (00:00:21) last pick:  0.000 0.000
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -0.968 2.055
-\i (00:00:23) trapsize 49
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -0.968 2.055
-\i (00:00:23) trapsize 25
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -0.968 2.056
-\i (00:00:23) trapsize 12
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -0.968 2.056
-\i (00:00:23) trapsize 6
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out -1.143 1.793
-\i (00:00:23) trapsize 12
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out -1.142 1.793
-\i (00:00:23) trapsize 25
-\i (00:00:23) zoom out 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom out -1.142 1.793
-\i (00:00:23) trapsize 49
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -1.398 2.469
-\i (00:00:24) trapsize 25
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -1.398 2.469
-\i (00:00:24) trapsize 12
-\i (00:00:24) zoom in 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom in -1.398 2.469
-\i (00:00:24) trapsize 6
-\i (00:00:26) pick grid -1.469 2.450
-\t (00:00:26) last pick:  -1.500 2.500
-\i (00:00:27) prepopup -1.205 2.640
-\i (00:00:28) done 
-\i (00:00:31) delete 
-\i (00:00:33) pick grid -1.096 2.170
-\t (00:00:33) last pick:  -1.100 2.200
-\t (00:00:33) Line "Package Geometry/Silkscreen_Top"
-\i (00:00:33) prepopup -1.049 2.662
-\i (00:00:34) done 
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out -1.049 2.662
-\i (00:00:34) trapsize 12
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out -1.050 2.662
-\i (00:00:34) trapsize 25
-\i (00:00:34) zoom out 1 
-\i (00:00:34) setwindow pcb
-\i (00:00:34) zoom out -1.049 2.662
-\i (00:00:35) trapsize 49
-\i (00:00:35) zoom out 1 
-\i (00:00:35) setwindow pcb
-\i (00:00:35) zoom out -1.049 2.662
-\i (00:00:35) trapsize 98
-\i (00:00:35) zoom out 1 
-\i (00:00:35) setwindow pcb
-\i (00:00:35) zoom out 1.288 2.270
-\i (00:00:35) trapsize 98
-\i (00:00:35) save 
-\i (00:00:36) fillin yes 
-\t (00:00:36) Symbol 'sop-8.psm' created.
-\i (00:00:37) delete 
-\i (00:00:39) pick grid 0.366 3.447
-\t (00:00:39) last pick:  0.400 3.400
-\t (00:00:39) Text "Last Edit:2024-3-16"
-\i (00:00:40) pick grid 0.582 -3.398
-\t (00:00:40) last pick:  0.600 -3.400
-\t (00:00:40) Text "Approved[2]"
-\i (00:00:40) prepopup 0.582 -3.398
-\i (00:00:41) done 
-\i (00:00:42) save 
-\i (00:00:42) fillin yes 
-\t (00:00:42) Symbol 'sop-8.psm' created.
-\i (00:00:43) exit 
-\t (00:00:44)     Journal end - Mon Jul 29 04:49:18 2024
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sop-16"
+\d (00:00:02) Design opened: D:/workspace/GitHub/pcb_lib/chip/sop-16.dra
+\t (00:00:02) Grids are drawn 0.040, 0.040 apart for enhanced viewing.
+\i (00:00:02) trapsize 43
+\i (00:00:02) trapsize 44
+\i (00:00:03) trapsize 43
+\i (00:00:03) trapsize 38
+\i (00:00:03) trapsize 39
+\i (00:00:03) trapsize 40
+\t (00:00:03) Grids are drawn 0.040, 0.040 apart for enhanced viewing.
+\i (00:00:03) trapsize 41
+\i (00:00:06) step pkg map 
+\i (00:00:06) fillin yes 
+\i (00:00:12) setwindow form.pkgmap3d
+\i (00:00:12) FORM pkgmap3d stplist SOP-16.STEP 
+\i (00:00:15) FORM pkgmap3d overlay YES 
+\i (00:00:16) FORM pkgmap3d hide_board YES 
+\i (00:00:17) FORM pkgmap3d hide_board NO 
+\i (00:00:20) FORM pkgmap3d view_orientation Top 
+\i (00:00:23) FORM pkgmap3d save_current  
+\i (00:00:24) FORM pkgmap3d done  
+\i (00:00:27) setwindow pcb
+\i (00:00:27) save 
+\i (00:00:27) fillin yes 
+\t (00:00:27) Symbol 'sop-16.psm' created.
+\i (00:00:28) exit 
+\t (00:00:28)     Journal end - Fri Aug  2 06:03:18 2024
