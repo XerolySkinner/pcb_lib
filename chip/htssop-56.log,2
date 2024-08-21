@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : htssop-56.dra                                 )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Wed Aug  7 01:14:18 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/workspace/GitHub/pcb_lib/chip
+    Name      = htssop-56.psm
+    User      = XerolySkinner
+    Machine   = LAPTOP-XEROLYSK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

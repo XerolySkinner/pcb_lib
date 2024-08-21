@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : ssop-4.dra                                    )
+(    Drawing          : htssop-56.dra                                 )
 (    Software Version : 17.4S035                                      )
-(    Date/Time        : Sat Aug  3 22:01:23 2024                      )
+(    Date/Time        : Wed Aug  7 01:10:16 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : D:/workspace/GitHub/pcb_lib/chip/ssop-4.dra
+	Layout Name   : D:/workspace/GitHub/pcb_lib/chip/htssop-56.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

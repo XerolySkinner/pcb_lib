@@ -1,0 +1,46 @@
+\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Fri Aug  9 03:51:44 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=25880 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\other\link-3_5-2x4.dra
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "link-3_5-2x4"
+\d (00:00:06) Design opened: D:/workspace/GitHub/pcb_lib/other/link-3_5-2x4.dra
+\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:06) trapsize 1675
+\i (00:00:07) trapsize 1719
+\i (00:00:07) trapsize 1675
+\i (00:00:08) trapsize 1469
+\i (00:00:08) trapsize 1509
+\i (00:00:08) trapsize 1552
+\t (00:00:08) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:08) trapsize 1593
+\i (00:00:14) step pkg map 
+\i (00:00:15) fillin yes 
+\i (00:00:21) setwindow form.pkgmap3d
+\i (00:00:21) FORM pkgmap3d stplist link_3.5_2x4.STEP 
+\i (00:00:23) FORM pkgmap3d rotation_x 90 
+\i (00:00:25) FORM pkgmap3d overlay YES 
+\i (00:00:27) FORM pkgmap3d view_orientation Right 
+\i (00:00:30) FORM pkgmap3d view_orientation Bottom 
+\i (00:00:33) FORM pkgmap3d hide_board YES 
+\i (00:00:36) FORM pkgmap3d offset_x -7 
+\i (00:00:38) FORM pkgmap3d offset_y -7 
+\i (00:00:41) FORM pkgmap3d offset_x -6 
+\i (00:00:44) FORM pkgmap3d offset_x -6.5 
+\i (00:00:46) FORM pkgmap3d offset_x -5 
+\i (00:00:49) FORM pkgmap3d offset_x -5.5 
+\i (00:00:57) FORM pkgmap3d offset_x -5.25 
+\i (00:01:05) FORM pkgmap3d offset_y -7.5000 
+\i (00:01:08) FORM pkgmap3d offset_y -6.5 
+\i (00:01:11) FORM pkgmap3d offset_y -6 
+\i (00:01:14) FORM pkgmap3d offset_y -6.75 
+\i (00:01:16) FORM pkgmap3d save_current  
+\i (00:01:17) FORM pkgmap3d done  
+\i (00:01:18) setwindow pcb
+\i (00:01:18) save 
+\i (00:01:18) fillin yes 
+\t (00:01:19) Symbol 'link-3_5-2x4.psm' created.
+\i (00:01:19) exit 
+\t (00:01:20)     Journal end - Fri Aug  9 03:53:01 2024

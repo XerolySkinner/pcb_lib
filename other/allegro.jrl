@@ -1,0 +1,40 @@
+\t (00:00:04) allegro 17.4 S035 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Fri Aug  9 09:30:34 2024
+\t (00:00:04)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=23064 CPUs=12
+\t (00:00:04) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\other\link-3_5-2x5.dra
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "link-3_5-2x5"
+\d (00:00:04) Design opened: D:/workspace/GitHub/pcb_lib/other/link-3_5-2x5.dra
+\t (00:00:05) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:05) trapsize 930
+\i (00:00:05) trapsize 954
+\i (00:00:05) trapsize 930
+\i (00:00:06) trapsize 816
+\i (00:00:06) trapsize 838
+\i (00:00:06) trapsize 861
+\t (00:00:06) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
+\i (00:00:06) trapsize 884
+\i (00:00:14) change 
+\i (00:00:18) setwindow form.mini
+\i (00:00:18) FORM mini change_class 'PACKAGE GEOMETRY' 
+\i (00:00:20) FORM mini change_subclass PLACE_BOUND_TOP 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid 5.3669 0.5089
+\t (00:00:23) last pick:  5.3700 0.5100
+\e (00:00:23) ERROR(SPMHGE-536): Shape line width cannot be changed.
+\i (00:00:31) setwindow form.mini
+\i (00:00:31) FORM mini apply_width NO 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) pick grid 5.3846 0.4558
+\t (00:00:33) last pick:  5.3800 0.4600
+\t (00:00:33) No DRC errors detected.
+\t (00:00:33) Changed 1 items out of 1 items found.
+\i (00:00:34) prepopup 1.6885 2.5603
+\i (00:00:35) done 
+\i (00:00:36) save 
+\i (00:00:36) fillin yes 
+\t (00:00:37) Symbol 'link-3_5-2x5.psm' created.
+\i (00:00:37) exit 
+\t (00:00:38)     Journal end - Fri Aug  9 09:31:08 2024

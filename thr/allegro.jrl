@@ -1,19 +1,49 @@
 \t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Aug  2 04:06:58 2024
-\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=9792 CPUs=12
-\t (00:00:03) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03)     Journal start - Thu Aug  8 07:02:55 2024
+\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=21748 CPUs=12
+\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\thr\to220-3.dra
 \t (00:00:03) 
    (00:00:03) Loading axlcore.cxt 
-\t (00:00:06) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "L298N_with_heat"
-\d (00:00:06) Design opened: D:/workspace/GitHub/pcb_lib/thr/L298N_with_heat.dra
-\i (00:00:07) trapsize 860
-\i (00:00:08) trapsize 883
-\i (00:00:08) trapsize 860
-\i (00:00:09) trapsize 755
-\i (00:00:09) trapsize 775
-\i (00:00:09) trapsize 797
-\i (00:00:09) trapsize 818
-\i (00:00:11) new 
-\i (00:00:24) newdrawfillin "sma.dra" "Package Symbol"
-\t (00:00:24)     Journal end - Fri Aug  2 04:07:19 2024
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "to220-3"
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/thr/to220-3.dra
+\i (00:00:06) trapsize 419
+\i (00:00:06) trapsize 430
+\i (00:00:06) trapsize 419
+\i (00:00:06) trapsize 368
+\i (00:00:06) trapsize 378
+\i (00:00:06) trapsize 388
+\i (00:00:06) trapsize 399
+\i (00:00:10) step pkg map 
+\i (00:00:11) fillin yes 
+\i (00:00:17) setwindow form.pkgmap3d
+\i (00:00:17) FORM pkgmap3d stplist TO220-3.step 
+\i (00:00:20) FORM pkgmap3d rotation_x 90 
+\i (00:00:22) FORM pkgmap3d rotation_x 0 
+\i (00:00:23) FORM pkgmap3d rotation_y 90 
+\i (00:00:25) FORM pkgmap3d overlay YES 
+\i (00:00:31) FORM pkgmap3d offset_y 10 
+\i (00:00:32) FORM pkgmap3d offset_y 0 
+\i (00:00:33) FORM pkgmap3d offset_z 10 
+\i (00:00:34) FORM pkgmap3d offset_z 20 
+\i (00:00:36) FORM pkgmap3d hide_board YES 
+\i (00:00:39) FORM pkgmap3d view_orientation Right 
+\i (00:00:43) FORM pkgmap3d view_orientation Top 
+\i (00:00:51) FORM pkgmap3d rotation_z 180 
+\i (00:00:55) FORM pkgmap3d offset_y -2 
+\i (00:00:56) FORM pkgmap3d offset_y 2 
+\i (00:00:58) FORM pkgmap3d offset_y 3 
+\i (00:01:00) FORM pkgmap3d offset_y 2.5 
+\i (00:01:03) FORM pkgmap3d view_orientation Right 
+\i (00:01:08) FORM pkgmap3d view_orientation Bottom 
+\i (00:01:19) FORM pkgmap3d view_orientation Top 
+\i (00:01:23) FORM pkgmap3d view_orientation Front 
+\i (00:01:24) FORM pkgmap3d hide_board NO 
+\i (00:01:32) FORM pkgmap3d save_current  
+\i (00:01:33) FORM pkgmap3d done  
+\i (00:01:35) setwindow pcb
+\i (00:01:35) save 
+\i (00:01:35) fillin yes 
+\t (00:01:36) Symbol 'to220-3.psm' created.
+\i (00:01:46) exit 
+\t (00:01:47)     Journal end - Thu Aug  8 07:04:39 2024

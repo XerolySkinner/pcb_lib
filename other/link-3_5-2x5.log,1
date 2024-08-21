@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : link-3_5-2x5.dra                              )
+(    Software Version : 17.4S035                                      )
+(    Date/Time        : Fri Aug  9 03:29:50 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/workspace/GitHub/pcb_lib/other
+    Name      = link-3_5-2x5.psm
+    User      = XerolySkinner
+    Machine   = LAPTOP-XEROLYSK
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : ssop-4.dra                                    )
+(    Drawing          : sym_template.dra                              )
 (    Software Version : 17.4S035                                      )
-(    Date/Time        : Sat Aug  3 22:07:56 2024                      )
+(    Date/Time        : Wed Aug  7 01:08:43 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  0
+ ..... Total number of DRC errors  156
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************
