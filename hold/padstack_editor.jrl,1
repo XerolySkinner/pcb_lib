@@ -1,0 +1,50 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Oct  6 06:43:24 2024
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=27704 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\hold\thr-0r92-1r6.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:05) QtSignal GuidedTabsParent GuidedDrillTab keyPressEvent 16777248 33554432 false 1
+\d (00:00:09) QtSignal GuidedDrillTab holeXSize editingFinished "0.9200"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:20) QtSignal GuidedDrillSymbol FigureDiameter editingFinished "0.9200"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:22) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:23) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:26) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "1.6000"
+\d (00:00:27) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:00:30) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "1.6000"
+\d (00:00:31) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:31) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:33) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:33) QtSignal 1
+\d (00:00:35) QtSignal GuidedDesignLayersTab PadDiameter editingFinished "1.6000"
+\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Thermal Pad"
+\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" 1 3
+\d (00:00:40) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" 1 3
+\d (00:00:41) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" 1 3
+\d (00:00:41) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 1 "Thermal Pad"
+\d (00:00:43) QtFillin ""
+\d (00:00:43) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" 1 3
+\d (00:00:43) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 1 "Thermal Pad" 1 3
+\d (00:00:44) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777223 0 false 1 ""
+\d (00:00:49) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Anti Pad"
+\d (00:00:49) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Anti Pad" 1 4
+\d (00:00:51) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:53) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
+\d (00:00:55) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:55) QtSignal 1
+\d (00:00:56) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "1.6000"
+\d (00:00:58) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:00:58) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 "Regular Pad" 1 1
+\d (00:01:00) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:01:00) QtSignal 1
+\d (00:01:01) QtSignal GuidedMaskLayersTab PadDiameter editingFinished "1.6000"
+\d (00:01:01) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:01:02) QtSignal MainWindow Save triggered
+\d (00:01:04) QtSignal MainWindow Exit triggered
+\t (00:01:04)     Journal end - Sun Oct  6 06:44:29 2024

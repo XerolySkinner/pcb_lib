@@ -1,32 +1,25 @@
-\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Sat Aug  3 21:35:27 2024
-\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=9888 CPUs=12
-\t (00:00:03) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ll41
-\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/smc/ll41.dra
-\i (00:00:06) trapsize 335
-\i (00:00:06) trapsize 344
-\i (00:00:06) trapsize 335
-\i (00:00:06) trapsize 294
-\i (00:00:06) trapsize 302
-\i (00:00:06) trapsize 310
-\i (00:00:06) trapsize 319
-\i (00:00:09) open 
-\i (00:00:19) fillin "D:/workspace/Cadence/step-motor/allegro/motor.brd"
-\i (00:00:19) cd "D:/workspace/Cadence/step-motor/allegro"
-\t (00:00:20) Opening existing design...
-\t (00:00:20) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
-\i (00:00:20) trapsize 5519
-\i (00:00:20) trapsize 5655
-\t (00:00:20) Grids are drawn 327.6800, 327.6800 apart for enhanced viewing.
-\t (00:00:20) Grids are drawn 0.6400, 0.6400 apart for enhanced viewing.
-\i (00:00:20) trapsize 6134
-\i (00:00:20) setwindow form.mini
-\i (00:00:20) FORM mini tree  'Components by refdes' 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) trapsize 6134
-\t (00:00:20) > Sending response DoneOpenBoard
-\t (00:00:20)     Journal end - Sat Aug  3 21:35:45 2024
+\t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Oct  6 07:10:23 2024
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=29456 CPUs=16
+\t (00:00:01) CmdLine= D:\software\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ll41
+\d (00:00:04) Design opened: D:/Workspace/GitHub/pcb_lib/smc/ll41.dra
+\i (00:00:04) trapsize 361
+\i (00:00:04) trapsize 371
+\i (00:00:04) trapsize 361
+\i (00:00:04) trapsize 407
+\i (00:00:04) trapsize 280
+\i (00:00:05) generaledit 
+\i (00:00:10) open 
+\i (00:00:28) fillin "D:/Workspace/Cadence/makoto/allegro/makoto.brd"
+\i (00:00:28) cd "D:/Workspace/Cadence/makoto/allegro"
+\t (00:00:28) Opening existing design...
+\i (00:00:29) trapsize 11214
+\i (00:00:29) trapsize 11434
+\t (00:00:29) Grids are drawn 650.2400, 650.2400 apart for enhanced viewing.
+\i (00:00:29) trapsize 11555
+\t (00:00:29) > Sending response DoneOpenBoard
+\t (00:00:29)     Journal end - Sun Oct  6 07:10:51 2024

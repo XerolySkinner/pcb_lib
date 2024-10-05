@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : thr_pin.dra                                   )
-(    Software Version : 17.4S035                                      )
-(    Date/Time        : Mon Apr 15 22:50:13 2024                      )
+(    Drawing          : usb_a_90.dra                                  )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sun Oct  6 06:58:30 2024                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = D:/workspace/GitHub/pcb_lib/thr
-    Name      = thr_pin.psm
-    User      = XerolySkinner
-    Machine   = LAPTOP-XEROLYSK
+    Directory = D:/Workspace/GitHub/pcb_lib/thr
+    Name      = usb_a_90.psm
+    User      = Xeroly
+    Machine   = XEROLYSKINNER
 
 
 Create symbol started.
