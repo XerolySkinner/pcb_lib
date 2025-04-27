@@ -1,0 +1,34 @@
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Apr 27 22:48:26 2025
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=1428 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\other\pcb-10b.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:19) QtSignal GuidedDesignLayersTab PadWidth editingFinished "10.0000"
+\d (00:00:21) QtSignal GuidedDesignLayersTab PadOffsetX editingFinished "10.8000"
+\d (00:00:23) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:26) QtSignal GuidedMaskLayersTab PadWidth editingFinished "10.0000"
+\d (00:00:32) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:34) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:36) QtSignal GuidedTabsParent NewPads currentRowChanged 3
+\d (00:00:36) QtSignal GuidedTabsParent NewPads itemSelectionChanged Rectangle
+\d (00:00:36) QtSignal GuidedTabsParent NewPads itemClicked Rectangle
+\d (00:00:37) QtFillin Yes
+\d (00:00:38) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:41) QtSignal GuidedDesignLayersTab PadWidth editingFinished "10.0000"
+\d (00:00:43) QtSignal GuidedDesignLayersTab PadHeight editingFinished "10.8000"
+\d (00:00:44) QtSignal GuidedDesignLayersTab PadOffsetX editingFinished "0.0000"
+\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:47) QtSignal GuidedMaskLayersTab PadWidth editingFinished "10.0000"
+\d (00:00:50) QtSignal GuidedMaskLayersTab PadHeight editingFinished "10.8600"
+\d (00:00:50) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:52) QtSignal GuidedMaskLayersTab PadWidth editingFinished "10.0600"
+\d (00:00:52) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:53) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:53) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:55) QtSignal GuidedMaskLayersTab PadWidth editingFinished "10.0000"
+\d (00:00:57) QtSignal GuidedMaskLayersTab PadHeight editingFinished "10.8000"
+\d (00:00:57) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:58) QtSignal MainWindow Save triggered
+\d (00:01:00) QtSignal MainWindow Exit triggered
+\t (00:01:00)     Journal end - Sun Apr 27 22:49:26 2025

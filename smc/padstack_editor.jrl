@@ -1,29 +1,7 @@
-\t (00:00:01) padstack_editor 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sat Aug  3 21:12:37 2024
-\t (00:00:01)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=21640 CPUs=12
-\t (00:00:01) CmdLine= d:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe D:\workspace\GitHub\pcb_lib\smc\ll41.pad
-\t (00:00:01) 
-\d (00:00:35) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:36) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777248 33554432 false +
-\d (00:00:36) QtSignal 1
-\d (00:00:38) QtSignal GuidedDesignLayersTab PadWidth editingFinished "1.2500"
-\d (00:00:38) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777251 134217728 false +
-\d (00:00:38) QtSignal 1
-\d (00:00:40) QtSignal GuidedDesignLayersTab PadHeight editingFinished "2.0000"
-\d (00:00:41) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777251 134217728 false +
-\d (00:00:41) QtSignal 1
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:44) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
-\d (00:00:44) QtSignal 1
-\d (00:00:48) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.3000"
-\d (00:00:50) QtSignal GuidedMaskLayersTab PadHeight editingFinished "2.0500"
-\d (00:00:51) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
-\d (00:00:51) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
-\d (00:00:52) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
-\d (00:00:52) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
-\d (00:00:53) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
-\d (00:00:53) QtSignal 1
-\d (00:00:54) QtSignal GuidedMaskLayersTab PadWidth editingFinished "1.2500"
-\d (00:00:54) QtSignal GuidedMaskLayersTab PadHeight editingFinished "2.0000"
-\d (00:00:56) QtSignal MainWindow Save triggered
-\t (00:00:57)     Journal end - Sat Aug  3 21:13:33 2024
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Apr 25 17:19:26 2025
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=32596 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\smc\sod-323.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal MainWindow Exit triggered
+\t (00:00:02)     Journal end - Fri Apr 25 17:19:28 2025

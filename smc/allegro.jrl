@@ -1,25 +1,33 @@
 \t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Oct  6 07:10:23 2024
-\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=29456 CPUs=16
-\t (00:00:01) CmdLine= D:\software\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:00:01)     Journal start - Fri Apr 25 17:19:42 2025
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=23772 CPUs=16
+\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\smc\sod-323.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ll41
-\d (00:00:04) Design opened: D:/Workspace/GitHub/pcb_lib/smc/ll41.dra
-\i (00:00:04) trapsize 361
-\i (00:00:04) trapsize 371
-\i (00:00:04) trapsize 361
-\i (00:00:04) trapsize 407
-\i (00:00:04) trapsize 280
-\i (00:00:05) generaledit 
-\i (00:00:10) open 
-\i (00:00:28) fillin "D:/Workspace/Cadence/makoto/allegro/makoto.brd"
-\i (00:00:28) cd "D:/Workspace/Cadence/makoto/allegro"
-\t (00:00:28) Opening existing design...
-\i (00:00:29) trapsize 11214
-\i (00:00:29) trapsize 11434
-\t (00:00:29) Grids are drawn 650.2400, 650.2400 apart for enhanced viewing.
-\i (00:00:29) trapsize 11555
-\t (00:00:29) > Sending response DoneOpenBoard
-\t (00:00:29)     Journal end - Sun Oct  6 07:10:51 2024
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sod-323"
+\d (00:00:01) Design opened: D:/Workspace/GitHub/pcb_lib/smc/sod-323.dra
+\i (00:00:02) trapsize 370
+\i (00:00:02) trapsize 381
+\i (00:00:02) trapsize 370
+\i (00:00:02) trapsize 418
+\i (00:00:02) trapsize 288
+\i (00:00:04) delete 
+\i (00:00:05) pick grid -1.7374 2.9915
+\t (00:00:05) last pick:  -1.7000 3.0000
+\t (00:00:05) Text "Last Edit:2024-3-28"
+\i (00:00:06) pick grid -2.1403 1.4894
+\t (00:00:06) last pick:  -2.1000 1.5000
+\t (00:00:06) Text "Approved[1]"
+\i (00:00:07) pick grid -2.1403 -1.6759
+\t (00:00:07) last pick:  -2.1000 -1.7000
+\t (00:00:07) Text "*Untested*"
+\i (00:00:14) pick grid 1.6409 -1.4054
+\t (00:00:14) last pick:  1.6000 -1.4000
+\i (00:00:17) prepopup 1.4222 -1.6816
+\i (00:00:18) done 
+\i (00:00:19) save 
+\i (00:00:19) fillin yes 
+\t (00:00:20) Symbol 'sod-323.psm' created.
+\i (00:00:20) exit 
+\t (00:00:20)     Journal end - Fri Apr 25 17:20:01 2025

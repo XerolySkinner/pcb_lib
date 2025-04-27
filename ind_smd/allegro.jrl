@@ -1,0 +1,31 @@
+\t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Apr 25 17:20:21 2025
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=26104 CPUs=16
+\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\ind_smd\i0402.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged i0402
+\d (00:00:01) Design opened: D:/Workspace/GitHub/pcb_lib/ind_smd/i0402.dra
+\i (00:00:02) trapsize 809
+\i (00:00:02) trapsize 832
+\i (00:00:02) trapsize 809
+\i (00:00:02) trapsize 913
+\i (00:00:02) trapsize 628
+\i (00:00:03) delete 
+\i (00:00:04) pick grid 4.0572 4.1461
+\t (00:00:04) last pick:  4.1000 4.1000
+\t (00:00:04) Text "*Untested*"
+\i (00:00:05) pick grid 0.9533 4.4854
+\t (00:00:05) last pick:  1.0000 4.5000
+\t (00:00:05) Text "Approved[1]"
+\i (00:00:06) pick grid 0.9659 5.6666
+\t (00:00:06) last pick:  1.0000 5.7000
+\t (00:00:06) Text "Last Edit:2024-04-06"
+\i (00:00:06) prepopup 0.9659 5.6666
+\i (00:00:06) done 
+\i (00:00:07) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'i0402.psm' created.
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Fri Apr 25 17:20:28 2025

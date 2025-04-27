@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : KF7_62-3P.dra                                 )
-(    Software Version : 17.4S035                                      )
-(    Date/Time        : Wed Aug  7 06:02:31 2024                      )
+(    Drawing          : fnwx_r1.dra                                   )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sun Apr 27 20:29:06 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/¹¤×÷¿â/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : KF7_62-3P.dra
+	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : fnwx_r1.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

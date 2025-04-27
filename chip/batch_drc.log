@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : sym_template.dra                              )
-(    Software Version : 17.4S035                                      )
-(    Date/Time        : Wed Aug  7 01:08:43 2024                      )
+(    Drawing          : tqfp-48-ep.dra                                )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Thu Apr 24 23:37:19 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  156
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

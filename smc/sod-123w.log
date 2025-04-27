@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sod-123w.dra                                  )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Wed Apr 23 21:14:20 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Workspace/GitHub/pcb_lib/smc
+    Name      = sod-123w.psm
+    User      = Xeroly
+    Machine   = XEROLYSKINNER
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

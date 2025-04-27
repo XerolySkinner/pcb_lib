@@ -1,8 +1,21 @@
-\t (00:00:01) padstack_editor 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Aug  7 01:05:05 2024
-\t (00:00:01)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=26352 CPUs=12
-\t (00:00:01) CmdLine= d:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe D:\workspace\GitHub\pcb_lib\chip\htssop-56.pad
-\t (00:00:01) 
-\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:08) QtSignal MainWindow Save triggered
-\t (00:00:10)     Journal end - Wed Aug  7 01:05:13 2024
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Apr 24 23:36:01 2025
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=13068 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\chip\tqfp-48-ep.pad
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:11) QtSignal GuidedDesignLayersTab PadHeight editingFinished "0.2600"
+\d (00:00:11) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:28) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.2800"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:30) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:32) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:33) QtSignal GuidedMaskLayersTab PadHeight editingFinished "0.2600"
+\d (00:00:33) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:39) QtSignal MainWindow Save triggered
+\d (00:00:41) QtSignal MainWindow Exit triggered
+\t (00:00:41)     Journal end - Thu Apr 24 23:36:43 2025

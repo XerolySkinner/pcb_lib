@@ -1,6 +1,6 @@
 (ExpressProject "template"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S035 (4083846)  [1/14/2023]-[04/10/24]")
+  (SoftwareVersion "23.1 P001 (4147275)  [9/30/2023]-[04/10/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -28,23 +28,47 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\template.dsn")
-      (Path "Design Resources" ".\template.dsn" "TEMPLATE")
-      (Select "Design Resources" ".\template.dsn" "TEMPLATE" "3:485"))
+      (Path "Design Resources"
+         "d:\workspace\github\pcb_lib\orcad_template\template.dsn")
+      (Path "Design Resources"
+         "d:\workspace\github\pcb_lib\orcad_template\template.dsn" "TEMPLATE")
+      (Select "Design Resources"
+         "d:\workspace\github\pcb_lib\orcad_template\template.dsn" "TEMPLATE"
+         "2:USB-CNT"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 620"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 774"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 940 28 666")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1413 28 796")
+        (Scroll "-203 -8")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
+      (Schematic "TEMPLATE")
+      (Page "3:485"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1413 28 796")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
-      (Path "D:\¹¤×÷¿â\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
+      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
+      (Schematic "TEMPLATE")
+      (Page "1:POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1413 28 796")
+        (Scroll "-203 -8")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\WORKSPACE\GITHUB\PCB_LIB\ORCAD_TEMPLATE\TEMPLATE.DSN")
       (Schematic "TEMPLATE")
       (Page "2:USB-CNT")))
-  (MPSSessionName "XerolySkinner"))
+  (MPSSessionName "Xeroly"))

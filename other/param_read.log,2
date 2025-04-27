@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : link_3.5_2x5.dra                              )
-(    Software Version : 17.4S035                                      )
-(    Date/Time        : Fri Aug  9 03:19:30 2024                      )
+(    Drawing          : WH-LTE-7S1.dra                                )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sun Apr 27 20:57:13 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/¹¤×÷¿â/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : link_3.5_2x5.dra
+	Paramfile Name : D:/Workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : WH-LTE-7S1.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

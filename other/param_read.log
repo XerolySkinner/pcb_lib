@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : link-3_5-2x4.dra                              )
-(    Software Version : 17.4S035                                      )
-(    Date/Time        : Fri Aug  9 03:43:40 2024                      )
+(    Drawing          : PCB1094M4.dra                                 )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Sun Apr 27 22:55:50 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/¹¤×÷¿â/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : link-3_5-2x4.dra
+	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : PCB1094M4.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

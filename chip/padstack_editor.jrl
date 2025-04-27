@@ -1,8 +1,24 @@
-\t (00:00:01) padstack_editor 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed Aug  7 01:05:16 2024
-\t (00:00:01)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=10064 CPUs=12
-\t (00:00:01) CmdLine= d:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe D:\workspace\GitHub\pcb_lib\chip\htssop-56-1.pad
-\t (00:00:01) 
-\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:03) QtSignal MainWindow Save triggered
-\t (00:00:05)     Journal end - Wed Aug  7 01:05:20 2024
+\t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri Apr 25 15:00:00 2025
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=24896 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\chip\tqfp-48-ep-gnd.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent NewPads currentRowChanged 1
+\d (00:00:02) QtSignal GuidedTabsParent NewPads itemSelectionChanged Square
+\d (00:00:02) QtSignal GuidedTabsParent NewPads itemClicked Square
+\d (00:00:03) QtFillin Yes
+\d (00:00:05) QtSignal GuidedTabsParent GuidedStartTab keyPressEvent 16777251 134217728 false 1
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777251 134217728 false +
+\d (00:00:08) QtSignal 1
+\d (00:00:22) QtSignal GuidedDesignLayersTab PadWidth editingFinished "5.0000"
+\d (00:00:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:27) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 "Regular Pad" 0 1
+\d (00:00:29) QtSignal GuidedMaskLayersTab PadWidth editingFinished "5.0000"
+\d (00:00:36) QtSignal GuidedMaskLayersTab PadWidth editingFinished "5.0600"
+\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:37) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 "Regular Pad" 2 1
+\d (00:00:40) QtSignal GuidedMaskLayersTab PadWidth editingFinished "5.0000"
+\d (00:00:42) QtSignal MainWindow Save triggered
+\d (00:00:43) QtSignal MainWindow Exit triggered
+\t (00:00:43)     Journal end - Fri Apr 25 15:00:44 2025

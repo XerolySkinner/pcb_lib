@@ -1,49 +1,23 @@
-\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Aug  8 07:02:55 2024
-\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=21748 CPUs=12
-\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\thr\to220-3.dra
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "to220-3"
-\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/thr/to220-3.dra
-\i (00:00:06) trapsize 419
-\i (00:00:06) trapsize 430
-\i (00:00:06) trapsize 419
-\i (00:00:06) trapsize 368
-\i (00:00:06) trapsize 378
-\i (00:00:06) trapsize 388
-\i (00:00:06) trapsize 399
-\i (00:00:10) step pkg map 
-\i (00:00:11) fillin yes 
-\i (00:00:17) setwindow form.pkgmap3d
-\i (00:00:17) FORM pkgmap3d stplist TO220-3.step 
-\i (00:00:20) FORM pkgmap3d rotation_x 90 
-\i (00:00:22) FORM pkgmap3d rotation_x 0 
-\i (00:00:23) FORM pkgmap3d rotation_y 90 
-\i (00:00:25) FORM pkgmap3d overlay YES 
-\i (00:00:31) FORM pkgmap3d offset_y 10 
-\i (00:00:32) FORM pkgmap3d offset_y 0 
-\i (00:00:33) FORM pkgmap3d offset_z 10 
-\i (00:00:34) FORM pkgmap3d offset_z 20 
-\i (00:00:36) FORM pkgmap3d hide_board YES 
-\i (00:00:39) FORM pkgmap3d view_orientation Right 
-\i (00:00:43) FORM pkgmap3d view_orientation Top 
-\i (00:00:51) FORM pkgmap3d rotation_z 180 
-\i (00:00:55) FORM pkgmap3d offset_y -2 
-\i (00:00:56) FORM pkgmap3d offset_y 2 
-\i (00:00:58) FORM pkgmap3d offset_y 3 
-\i (00:01:00) FORM pkgmap3d offset_y 2.5 
-\i (00:01:03) FORM pkgmap3d view_orientation Right 
-\i (00:01:08) FORM pkgmap3d view_orientation Bottom 
-\i (00:01:19) FORM pkgmap3d view_orientation Top 
-\i (00:01:23) FORM pkgmap3d view_orientation Front 
-\i (00:01:24) FORM pkgmap3d hide_board NO 
-\i (00:01:32) FORM pkgmap3d save_current  
-\i (00:01:33) FORM pkgmap3d done  
-\i (00:01:35) setwindow pcb
-\i (00:01:35) save 
-\i (00:01:35) fillin yes 
-\t (00:01:36) Symbol 'to220-3.psm' created.
-\i (00:01:46) exit 
-\t (00:01:47)     Journal end - Thu Aug  8 07:04:39 2024
+\t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Apr 27 22:01:59 2025
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=40776 CPUs=16
+\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\thr\thr_wh-lte-7s1.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "thr_wh-lte-7s1"
+\d (00:00:01) Design opened: D:/Workspace/GitHub/pcb_lib/thr/thr_wh-lte-7s1.dra
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:02) trapsize 2935
+\i (00:00:02) trapsize 3019
+\i (00:00:02) trapsize 2935
+\i (00:00:02) trapsize 3259
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:02) trapsize 3259
+\t (00:00:02) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
+\i (00:00:02) trapsize 2106
+\i (00:00:05) save 
+\i (00:00:06) fillin yes 
+\t (00:00:07) Symbol 'thr_wh-lte-7s1.psm' created.
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Sun Apr 27 22:02:07 2025

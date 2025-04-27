@@ -1,29 +1,31 @@
-\t (00:00:06) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:06)     Journal start - Fri Jul 26 17:14:52 2024
-\t (00:00:06)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=21076 CPUs=12
-\t (00:00:06) CmdLine= D:\SOFTWARE\Cadence\SPB_17.4\tools\bin\allegro.exe
-\t (00:00:06) 
-   (00:00:06) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ecap-10-16"
-\d (00:00:07) Design opened: D:/工作库/GitHub/pcb_lib/cap_smd/ecap-10-16.dra
-\i (00:00:07) trapsize 837
-\i (00:00:07) trapsize 860
-\i (00:00:07) trapsize 837
-\i (00:00:07) trapsize 734
-\i (00:00:07) trapsize 755
-\i (00:00:07) trapsize 776
-\i (00:00:07) trapsize 796
-\i (00:04:14) open 
-\i (00:04:59) fillin "D:/工作库/Cadence/buck_loop/allegro/buck_loop.brd"
-\i (00:04:59) cd "D:/工作库/Cadence/buck_loop/allegro"
-\t (00:04:59) Opening existing design...
-\t (00:04:59) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:04:59) trapsize 8080
-\i (00:04:59) trapsize 8279
-\t (00:04:59) Grids are drawn 409.6000, 409.6000 apart for enhanced viewing.
-\t (00:05:00) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:05:00) trapsize 8832
-\i (00:05:00) trapsize 8832
-\t (00:05:00) > Sending response DoneOpenBoard
-\t (00:05:00)     Journal end - Fri Jul 26 17:19:45 2024
+\t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Apr 25 17:20:39 2025
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=23996 CPUs=16
+\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\cap_smd\cap-smd-6_3x5_4.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "cap-smd-6_3x5_4"
+\d (00:00:01) Design opened: D:/Workspace/GitHub/pcb_lib/cap_smd/cap-smd-6_3x5_4.dra
+\i (00:00:02) trapsize 586
+\i (00:00:02) trapsize 603
+\i (00:00:02) trapsize 586
+\i (00:00:02) trapsize 828
+\i (00:00:02) trapsize 570
+\i (00:00:03) delete 
+\i (00:00:04) pick grid 5.9783 5.8787
+\t (00:00:04) last pick:  6.0000 5.9000
+\t (00:00:04) Text "Last Edit:2024-3-16"
+\i (00:00:05) pick grid 5.7505 4.0670
+\t (00:00:05) last pick:  5.8000 4.1000
+\t (00:00:05) Text "Approved[1]"
+\i (00:00:05) pick grid 5.7618 2.6655
+\t (00:00:05) last pick:  5.8000 2.7000
+\t (00:00:05) Text "*Untested*"
+\i (00:00:05) prepopup 5.7618 2.6655
+\i (00:00:06) done 
+\i (00:00:06) save 
+\i (00:00:07) fillin yes 
+\t (00:00:07) Symbol 'cap-smd-6_3x5_4.psm' created.
+\i (00:00:08) exit 
+\t (00:00:08)     Journal end - Fri Apr 25 17:20:45 2025

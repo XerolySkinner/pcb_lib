@@ -1,40 +1,133 @@
-\t (00:00:04) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Fri Aug  9 09:30:34 2024
-\t (00:00:04)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=23064 CPUs=12
-\t (00:00:04) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\other\link-3_5-2x5.dra
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "link-3_5-2x5"
-\d (00:00:04) Design opened: D:/workspace/GitHub/pcb_lib/other/link-3_5-2x5.dra
-\t (00:00:05) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
-\i (00:00:05) trapsize 930
-\i (00:00:05) trapsize 954
-\i (00:00:05) trapsize 930
-\i (00:00:06) trapsize 816
-\i (00:00:06) trapsize 838
-\i (00:00:06) trapsize 861
-\t (00:00:06) Grids are drawn 0.0800, 0.0800 apart for enhanced viewing.
-\i (00:00:06) trapsize 884
-\i (00:00:14) change 
-\i (00:00:18) setwindow form.mini
-\i (00:00:18) FORM mini change_class 'PACKAGE GEOMETRY' 
-\i (00:00:20) FORM mini change_subclass PLACE_BOUND_TOP 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) pick grid 5.3669 0.5089
-\t (00:00:23) last pick:  5.3700 0.5100
-\e (00:00:23) ERROR(SPMHGE-536): Shape line width cannot be changed.
-\i (00:00:31) setwindow form.mini
-\i (00:00:31) FORM mini apply_width NO 
-\i (00:00:33) setwindow pcb
-\i (00:00:33) pick grid 5.3846 0.4558
-\t (00:00:33) last pick:  5.3800 0.4600
-\t (00:00:33) No DRC errors detected.
-\t (00:00:33) Changed 1 items out of 1 items found.
-\i (00:00:34) prepopup 1.6885 2.5603
-\i (00:00:35) done 
-\i (00:00:36) save 
-\i (00:00:36) fillin yes 
-\t (00:00:37) Symbol 'link-3_5-2x5.psm' created.
-\i (00:00:37) exit 
-\t (00:00:38)     Journal end - Fri Aug  9 09:31:08 2024
+\t (00:02:32) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:02:32)     Journal start - Sun Apr 27 22:55:41 2025
+\t (00:02:32)         Host=XEROLYSKINNER User=Xeroly Pid=2016 CPUs=16
+\t (00:02:32) CmdLine= D:\software\Cadence\SPB_23.1\tools\bin\allegro.exe -mpssession Xeroly -proj d:\workspace\cadence\cedarmotor\cedarmotor.opj d:/workspace/cadence/cedarmotor/allegro/cedarmotor.brd
+\t (00:02:32) 
+\t (00:02:32) Starting new design...
+\i (00:02:32) trapsize 14970
+\i (00:02:32) trapsize 15291
+\i (00:02:32) trapsize 14970
+\t (00:02:32) Grids are drawn 1300.4800, 1300.4800 apart for enhanced viewing.
+\i (00:02:32) trapsize 19763
+\i (00:02:32) trapsize 19763
+\i (00:02:32) trapsize 18903
+\i (00:02:35) param in 
+\i (00:02:37) setwindow form.parm_in
+\i (00:02:37) FORM parm_in browse  
+\i (00:02:39) fillin "D:/workspace/GitHub/pcb_lib/XerolySkinner.prm"
+\i (00:02:40) FORM parm_in execute  
+\t (00:02:40) Starting Importing parameter file...
+\w (00:02:40) WARNING(SPMHGE-269): param in had warnings, use Viewlog to review the log file.
+\t (00:02:40) Opening existing design...
+\t (00:02:40) Grids are drawn 2.5400, 2.5400 apart for enhanced viewing.
+\i (00:02:40) setwindow pcb
+\i (00:02:40) trapsize 18903
+\i (00:02:40) trapsize 19289
+\i (00:02:41) trapsize 18903
+\t (00:02:41) Grids are drawn 2.5400, 2.5400 apart for enhanced viewing.
+\i (00:02:41) trapsize 19477
+\i (00:02:42) setwindow text
+\i (00:02:42) close
+\i (00:02:43) setwindow form.parm_in
+\i (00:02:43) FORM parm_in cancel  
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in 1 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) zoom in -9.2655 -6.9282
+\t (00:02:44) Grids are drawn 1.2700, 1.2700 apart for enhanced viewing.
+\i (00:02:44) trapsize 9738
+\i (00:02:45) zoom in 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom in 1.4468 -0.6956
+\i (00:02:45) trapsize 4869
+\i (00:02:47) add pin 
+\i (00:02:49) setwindow form.mini
+\i (00:02:49) FORM mini x_count 2 
+\i (00:02:55) FORM mini x_spacing 6.9000 
+\i (00:02:59) FORM mini next_pin_number 1 
+\i (00:02:59) FORM mini pad_browse  
+\i (00:03:21) fillin "Thr-2r3-3r0"
+\t (00:03:21) Using 'THR-2R3-3R0.pad'.
+\e (00:03:39) Command not found: X -3.45 0
+\i (00:03:46) setwindow pcb
+\i (00:03:46) pick -3.45 0 
+\t (00:03:46) last pick:  -3.4500 0.0000
+\t (00:03:46) Using 'THR-2R3-3R0.pad'.
+\i (00:03:48) prepopup -1.6694 6.2187
+\i (00:03:48) done 
+\t (00:03:48) Exiting from Add Pin.
+\i (00:03:49) zoom in 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom in -1.0851 1.2521
+\i (00:03:49) trapsize 2435
+\i (00:03:49) zoom in 1 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom in -1.0851 1.2522
+\i (00:03:49) trapsize 1217
+\i (00:04:00) shape add rect 
+\i (00:04:02) setwindow form.mini
+\i (00:04:02) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:04:04) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) updateport CVPane
+\i (00:04:21) pick -3.95 3.95 
+\t (00:04:21) last pick:  -3.9500 3.9500
+\i (00:04:26) pick 3.95 -3.95 
+\t (00:04:26) last pick:  3.9500 -3.9500
+\i (00:04:27) prepopup -2.4485 7.5335
+\i (00:04:28) done 
+\i (00:04:29) add rect 
+\i (00:04:31) setwindow form.mini
+\i (00:04:31) FORM mini subclass ASSEMBLY_TOP 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) updateport CVPane
+\i (00:04:35) pick -3.95 3.95 
+\t (00:04:35) last pick:  -3.9500 3.9500
+\i (00:04:39) pick 3.95 -3.95 
+\t (00:04:39) last pick:  3.9500 -3.9500
+\i (00:04:40) prepopup 8.8968 5.0989
+\i (00:04:41) done 
+\i (00:04:48) add rect 
+\i (00:04:51) shape add rect 
+\i (00:04:54) setwindow form.mini
+\i (00:04:54) FORM mini subclass SILKSCREEN_TOP 
+\i (00:04:54) setwindow pcb
+\i (00:04:54) updateport CVPane
+\i (00:05:00) pick -3.95 3.95 
+\t (00:05:00) last pick:  -3.9500 3.9500
+\i (00:05:05) pick 3.95 -3.95 
+\t (00:05:05) last pick:  3.9500 -3.9500
+\i (00:05:06) prepopup 6.1214 5.3423
+\i (00:05:07) done 
+\i (00:05:08) label refdes 
+\t (00:05:08) Pick text location.
+\i (00:05:11) setwindow form.mini
+\i (00:05:11) FORM mini text_name asm 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) pick grid -0.2573 6.1457
+\t (00:05:11) last pick:  0.0000 5.0800
+\t (00:05:11) Enter text string.
+\i (00:05:14) setwindow pcb
+\i (00:05:14) pick 0.0000 5.0800
+\i (00:05:19) pick grid -2.5945 4.7337
+\t (00:05:19) last pick:  -2.5400 5.0800
+\t (00:05:19) Refdes of this subclass is already defined, change subclass.
+\i (00:05:23) setwindow form.mini
+\i (00:05:23) FORM mini subclass SILKSCREEN_TOP 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) updateport CVPane
+\i (00:05:25) setwindow form.mini
+\i (00:05:25) FORM mini text_name ski 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) pick grid -2.7406 4.9528
+\t (00:05:26) last pick:  -2.5400 5.0800
+\t (00:05:26) Enter text string.
+\i (00:05:28) setwindow pcb
+\i (00:05:28) pick -2.5400 5.0800
+\i (00:05:29) save 
+\t (00:05:29) Symbol 'pcb1094m4.psm' created.
+\i (00:05:31) save 
+\i (00:05:31) fillin yes 
+\t (00:05:32) Symbol 'pcb1094m4.psm' created.
+\i (00:05:33) exit 
+\t (00:05:33)     Journal end - Sun Apr 27 22:58:42 2025

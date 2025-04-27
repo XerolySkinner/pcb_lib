@@ -1,17 +1,31 @@
 \t (00:00:01) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Sun Oct  6 07:02:48 2024
-\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=25424 CPUs=16
-\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\smc\sot-23-3p.dra
+\t (00:00:01)     Journal start - Fri Apr 25 17:19:11 2025
+\t (00:00:01)         Host=XEROLYSKINNER User=Xeroly Pid=10760 CPUs=16
+\t (00:00:01) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\smc\sot-23-6p.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sot-23-3p"
-\d (00:00:04) Design opened: D:/Workspace/GitHub/pcb_lib/smc/sot-23-3p.dra
-\i (00:00:04) trapsize 670
-\i (00:00:04) trapsize 689
-\i (00:00:04) trapsize 670
-\i (00:00:04) trapsize 946
-\i (00:00:05) trapsize 651
-\i (00:00:05) generaledit 
-\i (00:02:33) exit 
-\t (00:02:33)     Journal end - Sun Oct  6 07:05:20 2024
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "sot-23-6p"
+\d (00:00:01) Design opened: D:/Workspace/GitHub/pcb_lib/smc/sot-23-6p.dra
+\i (00:00:02) trapsize 328
+\i (00:00:02) trapsize 337
+\i (00:00:02) trapsize 328
+\i (00:00:02) trapsize 370
+\i (00:00:02) trapsize 255
+\i (00:00:03) delete 
+\i (00:00:05) pick grid 1.2217 3.1662
+\t (00:00:05) last pick:  1.2000 3.2000
+\t (00:00:05) Text "Last Edit:2024-4-6"
+\i (00:00:05) pick grid 2.7610 1.7798
+\t (00:00:05) last pick:  2.8000 1.8000
+\t (00:00:05) Text "Approved[1]"
+\i (00:00:06) pick grid 3.0464 0.1793
+\t (00:00:06) last pick:  3.0000 0.2000
+\t (00:00:06) Text "*Untested*"
+\i (00:00:06) prepopup 3.0464 0.1793
+\i (00:00:07) done 
+\i (00:00:07) save 
+\i (00:00:08) fillin yes 
+\t (00:00:08) Symbol 'sot-23-6p.psm' created.
+\i (00:00:09) exit 
+\t (00:00:09)     Journal end - Fri Apr 25 17:19:19 2025

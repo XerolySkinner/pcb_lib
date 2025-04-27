@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : usb_a_90.dra                                  )
+(    Drawing          : HS0038.dra                                    )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Oct  6 06:46:44 2024                      )
+(    Date/Time        : Wed Apr 23 22:01:10 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 	Paramfile Name : D:/Workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : usb_a_90.dra
+	Layout Name   : HS0038.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

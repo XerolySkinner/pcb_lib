@@ -1,46 +1,193 @@
-\t (00:00:03) allegro 17.4 S035 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Fri Aug  9 03:51:44 2024
-\t (00:00:03)         Host=LAPTOP-XEROLYSK User=XerolySkinner Pid=25880 CPUs=12
-\t (00:00:03) CmdLine= d:\software\cadence\spb_17.4\tools\bin\allegro.exe D:\workspace\GitHub\pcb_lib\other\link-3_5-2x4.dra
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
-\t (00:00:05) Opening existing design...
-\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "link-3_5-2x4"
-\d (00:00:06) Design opened: D:/workspace/GitHub/pcb_lib/other/link-3_5-2x4.dra
-\t (00:00:06) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:06) trapsize 1675
-\i (00:00:07) trapsize 1719
-\i (00:00:07) trapsize 1675
-\i (00:00:08) trapsize 1469
-\i (00:00:08) trapsize 1509
-\i (00:00:08) trapsize 1552
-\t (00:00:08) Grids are drawn 0.2000, 0.2000 apart for enhanced viewing.
-\i (00:00:08) trapsize 1593
-\i (00:00:14) step pkg map 
-\i (00:00:15) fillin yes 
-\i (00:00:21) setwindow form.pkgmap3d
-\i (00:00:21) FORM pkgmap3d stplist link_3.5_2x4.STEP 
-\i (00:00:23) FORM pkgmap3d rotation_x 90 
-\i (00:00:25) FORM pkgmap3d overlay YES 
-\i (00:00:27) FORM pkgmap3d view_orientation Right 
-\i (00:00:30) FORM pkgmap3d view_orientation Bottom 
-\i (00:00:33) FORM pkgmap3d hide_board YES 
-\i (00:00:36) FORM pkgmap3d offset_x -7 
-\i (00:00:38) FORM pkgmap3d offset_y -7 
-\i (00:00:41) FORM pkgmap3d offset_x -6 
-\i (00:00:44) FORM pkgmap3d offset_x -6.5 
-\i (00:00:46) FORM pkgmap3d offset_x -5 
-\i (00:00:49) FORM pkgmap3d offset_x -5.5 
-\i (00:00:57) FORM pkgmap3d offset_x -5.25 
-\i (00:01:05) FORM pkgmap3d offset_y -7.5000 
-\i (00:01:08) FORM pkgmap3d offset_y -6.5 
-\i (00:01:11) FORM pkgmap3d offset_y -6 
-\i (00:01:14) FORM pkgmap3d offset_y -6.75 
-\i (00:01:16) FORM pkgmap3d save_current  
-\i (00:01:17) FORM pkgmap3d done  
-\i (00:01:18) setwindow pcb
-\i (00:01:18) save 
-\i (00:01:18) fillin yes 
-\t (00:01:19) Symbol 'link-3_5-2x4.psm' created.
-\i (00:01:19) exit 
-\t (00:01:20)     Journal end - Fri Aug  9 03:53:01 2024
+\t (00:02:25) allegro 23.1 P001 Windows SPB 64-bit Edition
+\t (00:02:25)     Journal start - Sun Apr 27 22:49:48 2025
+\t (00:02:25)         Host=XEROLYSKINNER User=Xeroly Pid=17144 CPUs=16
+\t (00:02:25) CmdLine= D:\software\Cadence\SPB_23.1\tools\bin\allegro.exe
+\t (00:02:25) 
+\t (00:02:25) Starting new design...
+\i (00:02:25) trapsize 14970
+\i (00:02:25) trapsize 15291
+\i (00:02:25) trapsize 14970
+\t (00:02:25) Grids are drawn 1300.4800, 1300.4800 apart for enhanced viewing.
+\i (00:02:25) trapsize 19763
+\i (00:02:25) trapsize 19763
+\i (00:02:26) trapsize 18903
+\i (00:02:29) param in 
+\i (00:02:31) setwindow form.parm_in
+\i (00:02:31) FORM parm_in browse  
+\i (00:02:34) fillin "D:/workspace/GitHub/pcb_lib/XerolySkinner.prm"
+\i (00:02:34) FORM parm_in execute  
+\t (00:02:34) Starting Importing parameter file...
+\w (00:02:35) WARNING(SPMHGE-269): param in had warnings, use Viewlog to review the log file.
+\t (00:02:35) Opening existing design...
+\t (00:02:35) Grids are drawn 2.5400, 2.5400 apart for enhanced viewing.
+\i (00:02:35) setwindow pcb
+\i (00:02:35) trapsize 18903
+\i (00:02:35) trapsize 19289
+\i (00:02:35) trapsize 18903
+\t (00:02:35) Grids are drawn 2.5400, 2.5400 apart for enhanced viewing.
+\i (00:02:35) trapsize 19477
+\i (00:02:36) setwindow text
+\i (00:02:36) close
+\i (00:02:37) setwindow form.parm_in
+\i (00:02:37) FORM parm_in cancel  
+\i (00:02:39) setwindow pcb
+\i (00:02:39) prmed 
+\i (00:02:44) setwindow form.prmedit
+\i (00:02:44) FORM prmedit design  
+\i (00:02:48) FORM prmedit done  
+\i (00:02:49) setwindow pcb
+\i (00:02:49) label refdes 
+\t (00:02:49) Pick text location.
+\i (00:02:51) add pin 
+\i (00:02:52) setwindow form.mini
+\i (00:02:52) FORM mini pad_name pcb-10b 
+\t (00:02:52) Using 'PCB-10B.pad'.
+\i (00:02:54) setwindow pcb
+\i (00:02:54) pick 0 0 
+\t (00:02:54) last pick:  0.0000 0.0000
+\t (00:02:54) Using 'PCB-10B.pad'.
+\i (00:02:55) prepopup 14.4964 -20.1725
+\i (00:02:55) done 
+\t (00:02:55) Exiting from Add Pin.
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 1.2521 0.4730
+\i (00:02:56) trapsize 9738
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 1.2521 0.4730
+\i (00:02:56) trapsize 4869
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 1.2521 0.4730
+\i (00:02:56) trapsize 2435
+\i (00:02:58) undo 
+\i (00:02:58) trapsize 19477
+\i (00:02:59) add pin 
+\i (00:03:01) setwindow form.mini
+\i (00:03:01) FORM mini next_pin_number 1 
+\i (00:03:02) FORM mini pad_name pcb-10b 
+\t (00:03:02) Using 'PCB-10B.pad'.
+\e (00:03:04) Command not found: x0 0
+\i (00:03:06) setwindow pcb
+\i (00:03:06) pick 0 0 
+\t (00:03:06) last pick:  0.0000 0.0000
+\t (00:03:06) Using 'PCB-10B.pad'.
+\i (00:03:07) prepopup 16.4441 11.7696
+\i (00:03:08) done 
+\t (00:03:08) Exiting from Add Pin.
+\i (00:03:08) zoom in 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom in -2.6433 -4.2015
+\i (00:03:08) trapsize 9738
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 1.0573 -2.2538
+\i (00:03:09) trapsize 4869
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 1.0573 -2.2537
+\i (00:03:09) trapsize 2435
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 1.0573 -2.2537
+\i (00:03:09) trapsize 1217
+\i (00:03:09) zoom in 1 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom in 1.0574 -2.2536
+\i (00:03:09) trapsize 609
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 1.0574 -2.2536
+\i (00:03:10) trapsize 1217
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 1.0574 -2.2535
+\i (00:03:10) trapsize 2435
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 1.0572 -2.2536
+\i (00:03:10) trapsize 4869
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 1.0573 -2.2535
+\i (00:03:10) trapsize 9738
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in 3.0050 1.0575
+\i (00:03:11) trapsize 4869
+\i (00:03:11) zoom in 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in 3.0050 1.0575
+\i (00:03:11) trapsize 2435
+\i (00:03:13) label refdes 
+\t (00:03:13) Pick text location.
+\i (00:03:13) pick grid -2.6432 12.5976
+\t (00:03:13) last pick:  -2.5400 12.7000
+\t (00:03:13) Enter text string.
+\i (00:03:16) setwindow form.mini
+\i (00:03:16) FORM mini text_name asm 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) pick -2.5400 12.7000
+\i (00:03:20) setwindow pcb
+\i (00:03:20) MOVE 
+\t (00:03:20) Select element(s) to move.
+\i (00:03:21) pick grid -1.5720 12.8897
+\t (00:03:21) last pick:  -2.5400 12.7000
+\t (00:03:21) last pick:  -2.5400 12.7000
+\t (00:03:21) Pick new location for the element(s).
+\i (00:03:22) pick grid 1.1061 8.7509
+\t (00:03:22) last pick:  0.0000 7.6200
+\i (00:03:24) label refdes 
+\t (00:03:24) Pick text location.
+\i (00:03:26) setwindow form.mini
+\i (00:03:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) updateport CVPane
+\i (00:03:27) setwindow form.mini
+\i (00:03:27) FORM mini text_name ski 
+\i (00:03:28) setwindow pcb
+\i (00:03:28) pick grid 3.3946 7.6310
+\t (00:03:28) last pick:  2.5400 7.6200
+\t (00:03:28) Enter text string.
+\i (00:03:31) setwindow pcb
+\i (00:03:31) pick 2.5400 7.6200
+\i (00:03:32) prepopup 7.6308 7.8744
+\i (00:03:33) done 
+\i (00:03:48) save 
+\t (00:03:49) Symbol 'pcb-10b.psm' created.
+\i (00:03:55) shape add rect 
+\i (00:03:58) setwindow form.mini
+\i (00:03:58) FORM mini subclass ASSEMBLY_TOP 
+\i (00:03:58) setwindow pcb
+\i (00:03:58) updateport CVPane
+\i (00:04:00) zoom in 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom in -6.1491 5.2937
+\i (00:04:00) trapsize 1217
+\i (00:04:02) define grid 
+\t (00:04:02) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:04:03) setwindow form.grid
+\i (00:04:03) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:04:03) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:04:04) FORM grid done  
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in -5.4187 4.8555
+\i (00:04:05) trapsize 609
+\i (00:04:07) pick grid -5.4673 5.0746
+\t (00:04:07) last pick:  -5.5000 5.1000
+\i (00:04:08) zoom out 1 
+\i (00:04:08) setwindow pcb
+\i (00:04:08) zoom out -4.2866 5.0016
+\i (00:04:08) trapsize 1217
+\i (00:04:12) pick grid 5.5493 -5.1021
+\t (00:04:12) last pick:  5.5000 -5.1000
+\i (00:04:12) prepopup 7.2779 -0.4763
+\i (00:04:13) done 
+\i (00:04:13) save 
+\i (00:04:14) fillin yes 
+\t (00:04:14) Symbol 'pcb-10b.psm' created.
+\i (00:04:15) exit 
+\t (00:04:15)     Journal end - Sun Apr 27 22:51:38 2025
