@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : USR-WIFI232-A2.dra                            )
+(    Software Version : 23.1P001                                      )
+(    Date/Time        : Fri May  2 19:56:08 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/workspace/GitHub/pcb_lib/other
+    Name      = usr-wifi232-a2.psm
+    User      = Xeroly
+    Machine   = XEROLYSKINNER
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

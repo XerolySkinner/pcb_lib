@@ -1,7 +1,7 @@
 \t (00:00:00) padstack_editor 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Fri Apr 25 14:34:41 2025
-\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=22968 CPUs=16
-\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\smc\1206.pad
+\t (00:00:00)     Journal start - Fri Apr 25 17:19:26 2025
+\t (00:00:00)         Host=XEROLYSKINNER User=Xeroly Pid=32596 CPUs=16
+\t (00:00:00) CmdLine= d:\software\cadence\spb_23.1\tools\bin\padstack_editor.exe D:\Workspace\GitHub\pcb_lib\smc\sod-323.pad
 \t (00:00:00) 
 \d (00:00:02) QtSignal MainWindow Exit triggered
-\t (00:00:02)     Journal end - Fri Apr 25 14:34:42 2025
+\t (00:00:02)     Journal end - Fri Apr 25 17:19:28 2025

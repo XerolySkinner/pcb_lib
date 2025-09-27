@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : 3215.dra                                      )
+(    Drawing          : smd_4.dra                                     )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Wed Apr 23 21:26:35 2025                      )
+(    Date/Time        : Sat May 10 05:00:13 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : 3215.dra
+	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : D:/workspace/GitHub/pcb_lib/smc/smd_4.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

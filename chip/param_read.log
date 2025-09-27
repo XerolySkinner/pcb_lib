@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : tqfp-48-ep.dra                                )
+(    Drawing          : wsoic-8.dra                                   )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Thu Apr 24 23:38:15 2025                      )
+(    Date/Time        : Sat May 10 04:32:23 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/Workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : D:/Workspace/GitHub/pcb_lib/chip/tqfp-48-ep.dra
+	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : D:/workspace/GitHub/pcb_lib/chip/wsoic-8.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

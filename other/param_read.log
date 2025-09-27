@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : PCB1094M4.dra                                 )
+(    Drawing          : USR-WIFI232-A2.dra                            )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Apr 27 22:55:50 2025                      )
+(    Date/Time        : Fri May  2 19:49:43 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : PCB1094M4.dra
+	Layout Name   : USR-WIFI232-A2.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

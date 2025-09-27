@@ -2,15 +2,15 @@
 (                                                                     )
 (    Parameter File READ                                              )
 (                                                                     )
-(    Drawing          : fnwx_r1.dra                                   )
+(    Drawing          : WH-LTE-7S1.dra                                )
 (    Software Version : 23.1P001                                      )
-(    Date/Time        : Sun Apr 27 20:29:06 2025                      )
+(    Date/Time        : Sun Apr 27 20:57:13 2025                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-	Paramfile Name : D:/workspace/GitHub/pcb_lib/XerolySkinner.prm
-	Layout Name   : fnwx_r1.dra
+	Paramfile Name : D:/Workspace/GitHub/pcb_lib/XerolySkinner.prm
+	Layout Name   : WH-LTE-7S1.dra
 
 Reading...parameter_header:
 Reading...db_common_type:

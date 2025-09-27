@@ -1,45 +1,20 @@
 \t (00:00:02) allegro 23.1 P001 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Fri Apr 25 15:00:50 2025
-\t (00:00:02)         Host=XEROLYSKINNER User=Xeroly Pid=5220 CPUs=16
-\t (00:00:02) CmdLine= d:\software\cadence\spb_23.1\tools\bin\allegro.exe D:\Workspace\GitHub\pcb_lib\chip\tqfp-48-ep.dra
+\t (00:00:02)     Journal start - Sat May 10 04:57:54 2025
+\t (00:00:02)         Host=XEROLYSKINNER User=Xeroly Pid=35792 CPUs=16
+\t (00:00:02) CmdLine= D:\software\Cadence\SPB_23.1\tools\bin\allegro.exe
 \t (00:00:02) 
    (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "tqfp-48-ep"
-\d (00:00:04) Design opened: D:/Workspace/GitHub/pcb_lib/chip/tqfp-48-ep.dra
-\t (00:00:05) Grids are drawn 0.160, 0.160 apart for enhanced viewing.
-\i (00:00:05) trapsize 102
-\i (00:00:05) trapsize 104
-\i (00:00:05) trapsize 102
-\t (00:00:05) Grids are drawn 0.160, 0.160 apart for enhanced viewing.
-\i (00:00:05) trapsize 108
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "wsoic-8"
+\d (00:00:05) Design opened: D:/workspace/GitHub/pcb_lib/chip/wsoic-8.dra
 \t (00:00:05) Grids are drawn 0.080, 0.080 apart for enhanced viewing.
-\i (00:00:05) trapsize 74
-\i (00:00:12) add pin 
-\i (00:00:16) setwindow form.mini
-\i (00:00:16) FORM mini pad_name tqfp-48-ep-gnd 
-\w (00:00:16) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:00:16) Using 'TQFP-48-EP-GND.pad'.
-\e (00:00:20) Command not found: X 0 0
-\i (00:00:22) setwindow pcb
-\i (00:00:22) pick 0 0 
-\t (00:00:22) last pick:  0.000 0.000
-\t (00:00:22) Using 'TQFP-48-EP-GND.pad'.
-\i (00:00:23) prepopup 6.355 6.505
-\i (00:00:27) oops 
-\t (00:00:27) Using 'TQFP-48-EP-GND.pad'.
-\i (00:00:32) setwindow form.mini
-\i (00:00:32) FORM mini text_name pin 
-\i (00:00:34) FORM mini next_pin_number 49 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) pick 0 0 
-\t (00:00:36) last pick:  0.000 0.000
-\t (00:00:36) Using 'TQFP-48-EP-GND.pad'.
-\i (00:00:37) prepopup 7.902 3.812
-\i (00:00:38) done 
-\t (00:00:38) Exiting from Add Pin.
-\i (00:00:39) save 
-\i (00:00:40) fillin yes 
-\t (00:00:40) Symbol 'tqfp-48-ep.psm' created.
-\i (00:00:41) exit 
-\t (00:00:41)     Journal end - Fri Apr 25 15:01:29 2025
+\i (00:00:05) trapsize 71
+\i (00:00:05) trapsize 73
+\i (00:00:06) trapsize 71
+\i (00:00:06) trapsize 76
+\t (00:00:06) Grids are drawn 0.080, 0.080 apart for enhanced viewing.
+\i (00:00:06) trapsize 79
+\i (00:00:06) trapsize 53
+\i (00:00:20) new 
+\i (00:00:37) newdrawfillin "smd_4.dra" "Package Symbol (Wizard)"
+\t (00:00:37)     Journal end - Sat May 10 04:58:28 2025
