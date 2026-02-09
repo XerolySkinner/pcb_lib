@@ -23,15 +23,14 @@
     (Folder "Include Files"
       (Sort User)))
   (Folder "Logs")
-  (MPSSessionName "XerolySkinner")
+  (MPSSessionName "zabbc")
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\basic_obj.olb")
-      (Select "Design Resources" ".\basic_obj.olb" "ESP-01S"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 680"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 584"))
       (Tab 0))))
